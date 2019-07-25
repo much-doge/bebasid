@@ -1,6 +1,4 @@
 # Cara Install
-Sebelumnya, download filenya dulu melalui link [ini](https://unblockhostid.github.io/), kemudian lanjut cara dibawah.
-
 ## Windows
 
 Jalankan UNBLOCKHOSTID.exe dengan "Run as administrator", klik Apply
