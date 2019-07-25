@@ -299,7 +299,6 @@
 - Oppai-av.com
 - Wanz-factory.com
 - Av-e-body.com
-- Asiansexdiary.com
 - Pururin.io
 - Bestgore.com
 - Xdezire.com
@@ -329,7 +328,6 @@
 - Celebsflash.com
 - Erome.com
 - Studiofow.com
-- Hentaikey.com
 - Mangazuki.co
 - Thisvid.com
 - Bitporno.com
@@ -375,7 +373,6 @@
 - Jav68.me
 - Sendvid.com
 - Manhwahand.com
-- Doujins.com
 - Nudegirls4u.com
 - Sbobet.com
 - Yomanga.co
@@ -415,7 +412,6 @@
 - Cartoonpornvideos.com
 - Limetorrents.cc
 - Sxyprn.com
-- Bakabt.me
 - Betradar.com
 - Bet365.com
 - Hentainexus.com
@@ -445,3 +441,10 @@
 - Hentaigamer.net
 - Imghentai.site
 - Hentaihand.com
+- Hentaimangaly.com
+- Kanzenin.blogspot.com
+- Catspot.net
+- Hentaipros.com
+- Xanimeporn.com
+- Hentaiyes.com
+- Jabcomix.com

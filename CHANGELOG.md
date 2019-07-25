@@ -1,4 +1,18 @@
 # Changelog
+**v6.6** New sites added, bugs fixed, duplicate removed
+- Hentaimangaly.com
+- Kanzenin.blogspot.com
+- Catspot.net
+- Hentaipros.com
+- Xanimeporn.com
+- Hentaiyes.com
+- Jabcomix.com
+
+```
+Fixed bug on Nozomi, 
+Removed duplicate hosts
+```
+
 **v6.5** New sites added, bugs fixed
 - Verystream.com
 - Hennojin.com
