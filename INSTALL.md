@@ -3,7 +3,7 @@
 
 Jalankan UNBLOCKHOSTID.exe dengan "Run as administrator", klik Apply
 
-*Note: Mungkin akan terdeteksi sebagai virus, oleh karena itu matikan antivirus sebelum menggunakan.*
+*Note: Mungkin di perangkat Anda aplikasi ini akan terdeteksi sebagai virus oleh Antivirus sebagai false alarm/false positive. Oleh karena itu matikan antivirus sebelum menggunakan.*
 
 ## Android
 
