@@ -35,10 +35,30 @@ Sebelumnya, install dahulu UNBLOCKHOSTID - [INSTALL.md](https://github.com/gvoze
 
 Selanjutnya, kamu bisa menggunakan [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) yang sudah dilengkapi dengan GUI, instalasinya mudah, tinggal install seperti package biasa, lalu jalankan dan tekan tombol menjadi on.
 
-Alternatifnya, kalian bisa menggunakan [zapret](https://github.com/bol-van/zapret) dengan cara download, kemudian jalankan, install_easy.sh dan jawab pertanyaan yang tersedia.
+Alternatifnya, kamu bisa menggunakan [zapret](https://github.com/bol-van/zapret) dengan cara download, kemudian jalankan, install_easy.sh dan jawab pertanyaan yang tersedia.
 
 # MacOS
 
 Sebelumnya, install dahulu UNBLOCKHOSTID - [INSTALL.md](https://github.com/gvoze32/unblockhostid/blob/master/INSTALL.md#linux--bsd--macos)
 
 Selanjutnya, kamu bisa menggunakan [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) juga, instalasinya kurang lebih sama dengan Linux.
+
+# VPN (Alternatif)
+
+Kalau cara di atas masih tidak bisa digunakan, kamu bisa menggunakan cara ini.
+
+Bahan:
+- UNBLOCKHOSTID
+- [OpenVPN GUI](https://openvpn.net/community-downloads)
+- Config Server [Indonesia TCPVPN](https://www.tcpvpn.com/vpn-server-indonesia)
+
+Fitur:
+- Unlimited Bandwith.
+- Full Speed up to 10Mbps. (Down/Up)
+- Support Online Game.
+- TCP Protocol only.
+- Valid only for 5 days. (kalo mati, tinggal create ulang).
+
+Rekomended server:
+- TCP VPN ID1
+- TCP VPN ID2
