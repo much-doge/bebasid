@@ -47,18 +47,38 @@ Selanjutnya, kamu bisa menggunakan [Green Tunnel](https://github.com/SadeghHayer
 
 Kalau cara di atas masih tidak bisa digunakan, kamu bisa menggunakan cara ini.
 
-Bahan:
+### Bahan:
 - UNBLOCKHOSTID
 - [OpenVPN GUI](https://openvpn.net/community-downloads)
 - Config Server [Indonesia TCPVPN](https://www.tcpvpn.com/vpn-server-indonesia)
 
-Fitur:
+### Langkah:
+1. Buat SSH Indonesia di TCPVPN
+2. Isi Username dan Password
+
+```
+Account has been successfully created !
+
+Username :
+Password :
+IP :
+```
+
+3. Scroll ke bawah nanti ada pilihan download premium VPN config langsung download saja tidak perlu isi SSH
+4. Ekstrak file di folder anda
+5. Download OpenVPN GUI di PC/HP
+6. Buka OpenVPN GUI lalu import file hasil ekstrak tadi (yang ada 443)
+7. Isi Username dan Password sesuai dengan langkah kedua (sesuai dengan SSH anda)
+8. Sambungkan koneksi dan pilih 443
+9. Selesai, silahkan mencoba 
+
+### Fitur:
 - Unlimited Bandwith.
 - Full Speed up to 10Mbps. (Down/Up)
 - Support Online Game.
 - TCP Protocol only.
 - Valid only for 5 days. (kalo mati, tinggal create ulang).
 
-Rekomended server:
+### Rekomended server:
 - TCP VPN ID1
 - TCP VPN ID2
