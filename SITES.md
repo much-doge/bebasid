@@ -448,3 +448,14 @@
 - Xanimeporn.com
 - Hentaiyes.com
 - Jabcomix.com
+- Creampiesonly.com
+- Multporn.net
+- Thothub.tv
+- Hentaimoe.me
+- Hentaidude.com
+- Nonktube.com
+- Mov18plus.com
+- Wallhere.com
+- Hentaiporns.net
+- Avli.me
+- U18chan.com

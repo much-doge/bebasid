@@ -313,9 +313,9 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 104.18.62.228 javlibrary.com www.javlibrary.com
 
 [YANDE.RE]
-92.222.110.68 yande.re
-5.39.10.56 files.yande.re
-92.222.110.68 assets.yande.re
+188.165.205.120 yande.re
+51.77.247.63 files.yande.re
+188.165.205.120 assets.yande.re
 
 [KONACHAN.COM]
 5.178.68.69 konachan.com
@@ -491,6 +491,8 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 
 [NUTAKU.NET]
 208.99.64.43 nutaku.net www.nutaku.net
+205.185.208.152 cdn1-images.nutaku.com cdn2-images.nutaku.com
+216.18.168.79 network.nutaku.com
 
 [BANGBROS.COM]
 199.167.65.1 images25.bangbros.com
@@ -603,7 +605,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 104.27.145.19 www.javsubtitle.co
 
 [ASIANSEXDIARY.COM]
-66.70.178.47 asiansexdiary.com www.asiansexdiary.com
+104.27.200.90 asiansexdiary.com www.asiansexdiary.com
 158.69.124.44 join.asiansexdiary.com
 
 [STREETMEATASIA.COM]
@@ -670,7 +672,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 
 [DLSITE.COM]
 52.192.120.153 dlsite.com
-151.101.2.217 www.dlsite.com
+151.101.2.217 www.dlsite.com ssl.dlsite.com
 54.238.167.141 it.dlsite.com
 52.193.53.138 blog.dlsite.com
 52.199.95.20 login.dlsite.com
@@ -1355,6 +1357,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 
 [PURURIN.IO]
 104.27.174.71 pururin.io www.pururin.io
+104.24.18.118 cdn.pururin.io
 
 [BESTGORE.COM]
 104.27.81.16 bestgore.com www.bestgore.com
@@ -1760,7 +1763,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 104.27.141.149 sxyprn.com www.sxyprn.com
 
 [HENTAINEXUS.COM]
-104.31.73.80 hentainexus.com www.hentainexus.com
+104.31.73.80 hentainexus.com www.hentainexus.com images.hentainexus.com
 
 [BETRADAR.COM]
 3.121.0.67 betradar.com www.betradar.com
@@ -1869,6 +1872,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 
 [XANIMEPORN.COM]
 192.124.249.4 xanimeporn.com www.xanimeporn.com
+54.39.23.70 videos.xanimeporn.com
 
 [HENTAIYES.COM]
 104.31.93.183 hentaiyes.com www.hentaiyes.com
@@ -1877,3 +1881,36 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 50.23.253.253 jabcomix.com www.jabcomix.com forum.jabcomix.com
 50.23.253.253 autodiscover.jabcomix.com cpanel.jabcomix.com mail.jabcomix.com
 50.23.253.253 webdisk.jabcomix.com webmail.jabcomix.com
+
+[CREAMPIESONLY.COM]
+104.31.73.58 creampiesonly.com www.creampiesonly.com
+
+[MULTPORN.NET]
+104.20.89.103 multporn.net www.multporn.net
+
+[THOTHUB.TV]
+192.124.249.65 thothub.tv www.thothub.tv
+
+[HENTAIMOE.ME]
+104.27.130.89 hentaimoe.me www.hentaimoe.me
+
+[HENTAIDUDE.COM]
+104.18.46.94 hentaidude.com www.hentaidude.com
+
+[NONKTUBE.COM]
+146.71.97.58 nonktube.com www.nonktube.com
+
+[MOV18PLUS.COM]
+104.27.136.119 mov18plus.com www.mov18plus.com
+
+[WALLHERE.COM]
+104.26.12.130 wallhere.com www.wallhere.com
+
+[HENTAIPORNS.NET]
+104.18.45.90 hentaiporns.net www.hentaiporns.net
+
+[AVLI.ME]
+144.217.88.106 avli.me www.avli.me
+
+[U18CHAN.COM]
+104.25.133.22 u18chan.com www.u18chan.com

@@ -1,4 +1,22 @@
 # Changelog
+**v6.7** New sites added, bugs fixed
+- Creampiesonly.com
+- Multporn.net
+- Thothub.tv
+- Hentaimoe.me
+- Hentaidude.com
+- Nonktube.com
+- Mov18plus.com
+- Wallhere.com
+- Hentaiporns.net
+- Avli.me
+- U18chan.com
+
+```
+Fixed bug on Xanimeporn, Asiansexdiary, Yande, Pururin, Dlsite, Hentainexus, Nutaku
+Improved NON-ID list of Pornhub
+```
+
 **v6.6** New sites added, bugs fixed, duplicate removed
 - Hentaimangaly.com
 - Kanzenin.blogspot.com
