@@ -45,6 +45,8 @@ Selanjutnya, kamu bisa menggunakan [Green Tunnel](https://github.com/SadeghHayer
 
 # Android
 
+Sebelumnya, install dahulu UNBLOCKHOSTID - [INSTALL.md](https://github.com/gvoze32/unblockhostid/blob/master/INSTALL.md#android)
+
 Untuk android silahkan gunakan aplikasi [Dawn](https://play.google.com/store/apps/details?id=com.wktkf.dawn). Tinggal aktifkan saja.
 
 # VPN (Alternatif)
