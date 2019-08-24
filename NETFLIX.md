@@ -72,8 +72,8 @@ IP :
 8. Sambungkan koneksi dan pilih 443
 9. Selesai, silahkan mencoba 
 
-- Valid only for 5 days. (kalau mati, tinggal create ulang).
-
 ### Rekomendasi Server:
 - TCP VPN ID1
 - TCP VPN ID2
+
+Note: Hanya aktif selama 5 hari saja. (kalau mati, tinggal create ulang).
