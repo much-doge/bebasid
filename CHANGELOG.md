@@ -1,4 +1,18 @@
 # Changelog
+**v6.8** New sites added, bugs fixed
+- Svs-games.com
+- Hentaiser.com
+- Javfinder.id
+- 4channel.org
+- Myhentaigallery.com
+- Shentai.org
+- Comdotgame.com
+- Swfchan.com
+
+```
+Fixed bug on Nonktube, Gamesofdesire
+```
+
 **v6.7** New sites added, bugs fixed
 - Creampiesonly.com
 - Multporn.net

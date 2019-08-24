@@ -459,3 +459,11 @@
 - Hentaiporns.net
 - Avli.me
 - U18chan.com
+- Svs-games.com
+- Hentaiser.com
+- Javfinder.id
+- 4channel.org
+- Myhentaigallery.com
+- Shentai.org
+- Comdotgame.com
+- Swfchan.com
