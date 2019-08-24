@@ -1914,3 +1914,19 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 
 [U18CHAN.COM]
 104.25.133.22 u18chan.com www.u18chan.com
+
+# [Myhentai Galleries]
+104.20.95.176 myhentaigallery.com www.myhentaigallery.com
+104.20.183.126 images.myhentaigrid.com
+104.20.53.179 myhentaicomics.com
+
+# [SHENTAI.ORG]
+104.28.23.113 shentai.org www.shentai.org
+104.27.160.82 upcomics.org
+104.18.39.145 henchan.me
+
+# [comdotgame]
+104.27.159.250 www.comdotgame.com comdotgame.com shs.comdotgame.com echo.comdotgame.com
+
+# [SWFCHAN]
+185.97.32.49 eye.swfchan.com swfchan.com images1.swfchan.com files1.swfchan.com
