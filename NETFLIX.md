@@ -72,13 +72,8 @@ IP :
 8. Sambungkan koneksi dan pilih 443
 9. Selesai, silahkan mencoba 
 
-### Fitur:
-- Unlimited Bandwith.
-- Full Speed up to 10Mbps. (Down/Up)
-- Support Online Game.
-- TCP Protocol only.
-- Valid only for 5 days. (kalo mati, tinggal create ulang).
+- Valid only for 5 days. (kalau mati, tinggal create ulang).
 
-### Rekomended server:
+### Rekomendasi Server:
 - TCP VPN ID1
 - TCP VPN ID2
