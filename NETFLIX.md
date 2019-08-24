@@ -43,6 +43,10 @@ Sebelumnya, install dahulu UNBLOCKHOSTID - [INSTALL.md](https://github.com/gvoze
 
 Selanjutnya, kamu bisa menggunakan [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) juga, instalasinya kurang lebih sama dengan Linux.
 
+# Android
+
+Untuk android silahkan gunakan aplikasi [Dawn](https://play.google.com/store/apps/details?id=com.wktkf.dawn). Tinggal aktifkan saja.
+
 # VPN (Alternatif)
 
 Kalau cara di atas masih tidak bisa digunakan, kamu bisa menggunakan cara ini.
