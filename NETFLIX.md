@@ -71,16 +71,15 @@ Password :
 IP :
 ```
 
-3. Scroll ke bawah nanti ada pilihan download premium VPN config langsung download saja tidak perlu isi SSH
+3. Lihat di bawah halaman sampai ada pilihan download config .ovpn
 4. Ekstrak file di folder anda
-5. Download OpenVPN GUI di PC/HP
-6. Buka OpenVPN GUI lalu import file hasil ekstrak tadi (yang ada 443)
-7. Isi Username dan Password sesuai dengan langkah kedua (sesuai dengan SSH anda)
-8. Sambungkan koneksi dan pilih 443
-9. Selesai, silahkan mencoba 
+5. Buka OpenVPN GUI lalu import file hasil ekstrak tadi (yang ada 443)
+6. Isi Username dan Password sesuai dengan langkah kedua (sesuai dengan SSH anda)
+7. Sambungkan koneksi dan pilih 443
+8. Selesai, silahkan mencoba 
 
 ### Rekomendasi Server:
 - TCP VPN ID1
 - TCP VPN ID2
 
-Note: Hanya aktif selama 5 hari saja. (kalau mati, tinggal create ulang).
+Note: Hanya aktif selama 5 hari saja. (Jika mati, bisa buat ulang).
