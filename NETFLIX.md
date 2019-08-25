@@ -20,14 +20,15 @@ Kurang lebih seperti itu, karena akses kecepatan Netflix dilimit oleh Internet P
 
 Kamu bisa download GoodbyeDPI disini.
 
-[Original](https://github.com/ValdikSS/GoodbyeDPI)
+[Download](http://adena.me/goodbyedpi-0.1.5.zip) / [Mirrors](https://pastebin.com/raw/YCjrgF2G)
 
-[Modified](https://files.catbox.moe/54sx6d.zip) / [Mirror](https://filebin.ca/4jivtUll4uI3/goodbyedpi-0.1.5rc1.zip) / [Mirror2](https://bin.jvnv.net/file/YuJJa/goodbyedpi-0.1.5rc1.zip) / [Mirror3](https://upload.vinahost.vn/YHIyh/goodbyedpi-0.1.5rc1.zip) (Thanks to punkofthedeath)
+Pertama, klik service_install.cmd untuk mulai menginstall aplikasinya.
 
-Saya sarankan untuk menggunakan versi modified karena menginstallnya mudah. Tetapi jika kalian mengerti cara menggunakan aplikasi tersebut, silahkan pakai yang original.
+Kemudian tinggal klik run.cmd untuk memulai aplikasi.
 
-Selesai, silahkan coba untuk memutar film di Netflix.
+Silahkan coba untuk memutar film di Netflix.
 
+Jika sudah selesai, silahkan service_remove.cmd untuk memberhentikan aplikasi.
 
 # Linux
 
