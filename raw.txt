@@ -27,7 +27,6 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 151.101.1.140 e.reddit.com
 151.101.1.140 about.reddit.com
 151.101.1.140 st.reddit.com
-151.101.1.140 e.reddit.com
 151.101.1.140 ssl.reddit.com
 151.101.1.140 oauth.reddit.com
 151.101.1.140 out.reddit.com
@@ -35,7 +34,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 151.101.1.140 old.reddit.com
 151.101.1.140 sendbird.reddit.com
 151.101.1.140 new.reddit.com
-151.101.129.140 gateway.reddit.com
+151.101.1.140 gateway.reddit.com
 151.101.1.140 events.reddit.com
 52.44.97.90 alb.reddit.com
 151.101.129.140 en.reddit.com
@@ -53,6 +52,85 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 151.101.189.140 preview.redd.it
 151.101.69.140 styles.redditmedia.com
 151.101.41.140 gql.reddit.com
+151.101.1.140 buttons.reddit.com
+151.101.1.140 amp.reddit.com
+151.101.1.140 rapi.reddit.com
+151.101.1.140 digg.comold.reddit.com
+151.101.1.140 fn.reddit.com
+151.101.1.140 cdn.reddit.com
+151.101.1.140 digg.comwww.reddit.com
+151.101.1.140 xa.reddit.com
+151.101.1.140 xr.reddit.com
+151.101.1.140 line.reddit.com
+151.101.1.140 imagur.reddit.com
+151.101.1.140 strapi.reddit.com
+151.101.1.140 d.reddit.com
+151.101.1.140 meta-api.reddit.com
+151.101.1.140 ads.reddit.com
+151.101.1.140 bettertouchtool.reddit.com
+151.101.1.140 pixel.reddit.com
+151.101.1.140 v21.reddit.com
+151.101.1.140 diaperedhentai.reddit.com
+151.101.1.140 abdl.reddit.com
+151.101.1.140 as.reddit.com
+151.101.1.140 i.reddit.com
+151.101.1.140 beta.reddit.com
+151.101.1.140 pepetraders.reddit.com
+151.101.1.140 so.reddit.com
+151.101.1.140 ps.reddit.com
+151.101.1.140 thumbs.reddit.com
+151.101.1.140 2fwww.reddit.com
+151.101.1.140 sp.reddit.com
+151.101.1.140 ex.reddit.com
+151.101.1.140 no.reddit.com
+151.101.1.140 h.reddit.com
+151.101.1.140 bitfinex.reddit.com
+3.208.46.58 rhs.reddit.com
+151.101.1.140 effectai.reddit.com
+151.101.1.140 toqqn.reddit.com
+151.101.1.140 pectiv.reddit.com
+151.101.1.140 dc.reddit.com
+151.101.1.140 ud.reddit.com
+151.101.1.140 security.reddit.com
+151.101.1.140 acer.reddit.com
+151.101.1.140 cc.reddit.com
+151.101.1.140 gg.reddit.com
+151.101.1.140 se.reddit.com
+151.101.1.140 habs.reddit.com
+151.101.1.140 ma.reddit.com
+151.101.1.140 eo.reddit.com
+151.101.1.140 loid.reddit.com
+151.101.1.140 es.reddit.com
+151.101.1.140 cx.reddit.com
+151.101.1.140 2fout.reddit.com
+151.101.1.140 ro.reddit.com
+151.101.1.140 news.reddit.com
+151.101.1.140 nl.reddit.com
+151.101.1.140 ol.reddit.com
+151.101.1.140 dd.reddit.com
+151.101.1.140 yogscast.reddit.com
+151.101.1.140 jwww.reddit.com
+151.101.1.140 ja.reddit.com
+151.101.1.140 tr.reddit.com
+151.101.1.140 code.reddit.com
+151.101.1.140 static.reddit.com
+151.101.1.140 2fold.reddit.com
+151.101.1.140 de.reddit.com
+151.101.1.140 initref.reddit.com
+151.101.1.140 auth.reddit.com
+151.101.1.140 22www.reddit.com
+151.101.1.140 v2.reddit.com
+151.101.1.140 dreams.reddit.com
+151.101.1.140 srs.reddit.com
+151.101.1.140 rseor3.reddit.com
+151.101.1.140 edgebucket.reddit.com
+151.101.1.140 token.reddit.com
+151.101.1.140 rabt.reddit.com
+151.101.1.140 pt.reddit.com
+151.101.1.140 sf.reddit.com
+151.101.1.140 us.reddit.com
+151.101.1.140 fr.reddit.com
+151.101.1.140 252fwww.reddit.com
 
 [VIMEO.COM]
 151.101.130.109 i.vimeocdn.com
@@ -392,34 +470,33 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 [NETFLIX.COM]
-23.44.160.210 secure.netflix.com
-35.161.193.3 movies.netflix.com
-52.89.152.185 cbp-us.nccp.netflix.com
-35.153.94.156 movies1.netflix.com
-52.51.43.226 movies2.netflix.com
-207.45.72.201 dvd.netflix.com autocomplete.netflix.com bluray.netflix.com
-52.35.135.231 moviecontrol.netflix.com
-52.27.92.135 api.netflix.com
-54.68.141.65 www2.netflix.com
-52.38.81.70 nccp-nrdp-31.cloud.netflix.net
-52.40.31.103 ios.nccp.netflix.com
-34.214.51.73 uiboot.netflix.com
-52.42.209.103 signup.netflix.com
-54.208.4.8 nccp-fuji.cloud.netflix.net nccp-nato.cloud.netflix.net
-184.25.56.188 mcdn.netflix.com
-35.163.147.163 nccp-ps3.cloud.netflix.net
-54.213.39.40 api-user.netflix.com
-184.26.82.98 assets.nflxext.com
-69.172.200.241 ir.netflix.com
-54.192.13.23 media.netflix.com
-34.211.85.116 help.netflix.com
-34.210.61.133 jobs.netflix.com
-184.26.82.98 codex.nflxext.com
-207.45.72.215 nflxext.com nflximg.com
-52.37.168.202 api-global.netflix.com
-52.34.255.169 ichnaea.netflix.com
-35.160.112.124 netflix.com www.netflix.com
+35.160.7.30 netflix.com www.netflix.com
 52.32.78.165 netflix.co.id www.netflix.co.id
+23.35.181.192 secure.netflix.com
+52.42.49.110 movies.netflix.com
+34.227.70.20 movies1.netflix.com
+54.76.211.129 movies2.netflix.com
+52.88.21.77 cbp-us.nccp.netflix.com
+207.45.72.201 dvd.netflix.com autocomplete.netflix.com bluray.netflix.com
+52.40.161.141 moviecontrol.netflix.com
+34.215.6.52 api.netflix.com
+54.148.48.62 www2.netflix.com
+35.163.147.163 nccp-nrdp-31.cloud.netflix.net
+35.164.199.73 ios.nccp.netflix.com
+34.216.95.171 uiboot.netflix.com
+50.112.169.227 signup.netflix.com
+34.226.85.54 nccp-fuji.cloud.netflix.net nccp-nato.cloud.netflix.net
+184.25.56.220 mcdn.netflix.com
+52.25.210.146 nccp-ps3.cloud.netflix.net
+52.36.6.165 api-user.netflix.com
+45.57.91.1 assets.nflxext.com codex.nflxext.com
+52.32.240.186 ir.netflix.com
+13.249.79.11 media.netflix.com
+54.201.122.47 help.netflix.com
+52.11.96.195 jobs.netflix.com
+207.45.72.215 nflxext.com nflximg.com
+54.187.138.220 api-global.netflix.com
+54.69.204.241 ichnaea.netflix.com
 
 [KISSMANGA.COM]
 104.25.45.113 kissmanga.com www.kissmanga.com
@@ -1946,5 +2023,8 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 [4CHANNEL.ORG]
 104.17.79.75 4channel.org www.4channel.org boards.4channel.org
 
-# [Hebatch.blogspot.com]
-216.58.208.97 hebatch.blogspot.com
+[HEBATCH.BLOGSPOT.COM]
+216.58.208.97 hebatch.blogspot.com www.hebatch.blogspot.com
+
+[TORRENTDOWNLOADS.ME]
+104.27.212.30 torrentdownloads.me www.torrentdownloads.me

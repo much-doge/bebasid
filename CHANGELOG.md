@@ -1,4 +1,14 @@
 # Changelog
+**v6.8.2** New sites added, bugs fixed
+- Torrentdownloads.me
+- Hebatch.blogspot.com
+
+```
+Fixed bug on Netflix
+Imroved hosts list on Reddit
+Updated GoodbyeDPI on app version.
+```
+
 **v6.8** New sites added, bugs fixed
 - Svs-games.com
 - Hentaiser.com

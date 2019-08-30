@@ -467,3 +467,5 @@
 - Shentai.org
 - Comdotgame.com
 - Swfchan.com
+- Torrentdownloads.me
+- Hebatch.blogspot.com
