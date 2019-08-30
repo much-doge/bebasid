@@ -1945,3 +1945,6 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 
 [4CHANNEL.ORG]
 104.17.79.75 4channel.org www.4channel.org boards.4channel.org
+
+# [Hebatch.blogspot.com]
+216.58.208.97 hebatch.blogspot.com
