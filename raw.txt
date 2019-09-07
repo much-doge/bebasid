@@ -1638,6 +1638,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 [JLIST.COM]
 151.139.128.10 jlist.com www.jlist.com blog.jlist.com
 67.199.248.13 jli.st www.jli.st
+45.33.48.208 mail.jlist.com
 
 [KISSKISS.TV]
 219.94.159.14 kisskiss.tv www.kisskiss.tv
