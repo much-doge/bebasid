@@ -1,4 +1,12 @@
 # Changelog
+**v6.9** New sites added, bugs fixed, REBRAND!
+- Topwebmodels.com
+
+```
+Fixed bug on Anime-sharing, Iwara
+Rebrand from UNBLOCKHOSTID to BEBASID
+```
+
 **v6.8.2** New sites added, bugs fixed
 - Torrentdownloads.me
 - Hebatch.blogspot.com
