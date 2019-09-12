@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/size/gvoze32/bebasid/hosts.svg?style=flat-square">
 </p>
 
-Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts.
+BEBASID dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts.
 
 # Download
 Untuk menggunakan aplikasi ini, kamu bisa download [disini](https://bebasid.github.io)
