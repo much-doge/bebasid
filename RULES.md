@@ -1,4 +1,4 @@
-UNBLOCKHOSTID adalah sebuah aplikasi yang digunakan untuk membuka website yang telah diblokir dengan tujuan mendukung kebebasan berinternet di Indonesia. Tetapi ada persyaratan yang harus dipenuhi sebelum menggunakan aplikasi ini.
+BEBASID adalah sebuah aplikasi yang digunakan untuk membuka website yang telah diblokir dengan tujuan mendukung kebebasan berinternet di Indonesia. Tetapi ada persyaratan yang harus dipenuhi sebelum menggunakan aplikasi ini.
 
 Anda harus wajib berusia minimal 18 tahun keatas untuk bisa menggunakan aplikasi ini. 
 

@@ -1,7 +1,7 @@
 # Cara Install
 ## Windows
 
-Jalankan UNBLOCKHOSTID.exe dengan "Run as administrator", klik Apply
+Jalankan BEBASID.exe dengan "Run as administrator", klik Apply
 
 *Note: Mungkin di perangkat Anda aplikasi ini akan terdeteksi sebagai virus oleh Antivirus, tetapi sebenarnya hal tersebut hanya false positive. Oleh karena itu matikan antivirus sebelum menggunakan.*
 
@@ -32,7 +32,7 @@ Buka dan grant akses root
 Hapus semua centang pada hosts sources kemudian pilih add
 
 ```
-https://raw.githubusercontent.com/gvoze32/unblockhostid/master/hosts
+https://raw.githubusercontent.com/gvoze32/bebasid/master/hosts
 ```
 
 Salin kode diatas lalu kembali ke AdAway dan tambahkan
@@ -53,10 +53,10 @@ Buka aplikasinya, klik "Hosts Setting", Pilih filenya (file hosts yang telah di 
 Buka terminal, lalu ketik atau salin kode di bawah ini lalu enter.
 
 ```
-sudo curl -sfLS https://raw.githubusercontent.com/gvoze32/unblockhostid/master/hosts >> /etc/hosts
+sudo curl -sfLS https://raw.githubusercontent.com/gvoze32/bebasid/master/hosts >> /etc/hosts
 ```
 
 Alternatif:
 ```
-sudo wget https://raw.githubusercontent.com/gvoze32/unblockhostid/master/hosts -O /etc/hosts
+sudo wget https://raw.githubusercontent.com/gvoze32/bebasid/master/hosts -O /etc/hosts
 ```
