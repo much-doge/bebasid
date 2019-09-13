@@ -1,4 +1,3 @@
-# BEBASID
 <p align="center">
     <img src="https://files.catbox.moe/lrcftz.png" alt="BEBASID LOGO" width="330">
 </p>
