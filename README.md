@@ -10,6 +10,10 @@
     <img src="https://img.shields.io/github/size/gvoze32/bebasid/hosts.svg?style=flat-square">
 </p>
 
+```diff
+- Update saat ini di delay dikarenakan pc rusak, semua data tentang pengembangan aplikasi ada di laptop tersebut, jadi belum bisa update dalam waktu dekat
+```
+
 BEBASID dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts.
 
 # Download
