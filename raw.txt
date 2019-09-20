@@ -168,9 +168,9 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 [NHENTAI.NET]
 141.101.120.55 nhentai.net www.nhentai.net
 141.101.120.54 static.nhentai.net
-185.165.243.200 t.nhentai.net
+185.165.243.201 t.nhentai.net
 185.165.243.201 i.nhentai.net
-185.165.243.200 webseed.nhentai.net
+185.165.243.201 webseed.nhentai.net
 
 [GELBOORU.COM]
 67.202.114.141 gelbooru.com www.gelbooru.com
@@ -219,8 +219,11 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 104.31.90.62 tbib.org
 
 [XHAMSTER.COM]
-88.208.18.30 xhamster.com www.xhamster.com m.xhamster.com mobi.xhamster.com
+88.208.60.136 xhamster.com www.xhamster.com m.xhamster.com mobi.xhamster.com
 88.208.31.1 xhcdn.com video.xhcdn.com
+88.208.36.222 xhamster7.com
+104.18.85.14 static-cl.xhcdn.com
+104.18.84.14 thumb-v-cl2.xhcdn.com
 
 [JAVFOR.ME]
 104.25.219.15 javfor.me
@@ -399,14 +402,13 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 5.178.68.69 konachan.com
 
 [TSUMINO.COM]
-104.28.20.226 tsumino.com
-104.28.21.226 www.tsumino.com
+104.28.3.29 tsumino.com www.tsumino.com content.tsumino.com
 
 [PORNEQ.COM]
 163.172.85.31 porneq.com
 
 [NEWGROUNDS.COM]
-142.44.137.231 www.newgrounds.com newgrounds.com
+54.39.105.143 newgrounds.com www.newgrounds.com
 
 [MOFOS.COM]
 216.18.168.90 members2.mofos.com
@@ -956,8 +958,9 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 5.44.219.124 asexon.com www.asexon.com
 
 [AVGLE.COM]
-104.20.116.27 avgle.com www.avgle.com
-213.174.135.2 static-clst.avgle.com
+104.27.154.26 avgle.com
+104.27.155.26 www.avgle.com
+213.174.135.3 static-clst.avgle.com www.static-clst.avgle.com
 
 [TUOI69.COM]
 104.27.178.187 tuoi69.com www.tuoi69.com
@@ -1630,7 +1633,8 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 99.84.254.72 manyvids.com www.manyvids.com
 
 [JAV.GURU]
-104.25.143.28 jav.guru www.jav.guru static.jav.guru
+104.25.143.28 jav.guru www.jav.guru 
+104.25.142.28 static.jav.guru
 
 [BBCSREBORN.COM]
 159.65.137.142 bbcsreborn.com www.bbcsreborn.com
@@ -1840,7 +1844,7 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 104.31.17.3 limetorrents.cc limetorrents.cc
 
 [SXYPRN.COM]
-104.27.141.149 sxyprn.com www.sxyprn.com
+172.64.207.7 sxyprn.com www.sxyprn.com
 
 [HENTAINEXUS.COM]
 104.31.73.80 hentainexus.com www.hentainexus.com images.hentainexus.com
@@ -2032,3 +2036,30 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 
 [TOPWEBMODELS.COM]
 74.206.162.148 topwebmodels.com www.topwebmodels.com tour.topwebmodels.com members.topwebmodels.com
+
+[INSTANTFAP.COM] 
+104.24.107.241 instantfap.com www.instantfap.com
+
+[TXXX.COM]
+104.20.72.110 txxx.com www.txxx.com
+
+[EPORNER.COM]
+82.192.65.65 eporner.com
+82.192.65.65 www.eporner.com
+185.132.134.85 static-eu-cdn.eporner.com
+
+[7MM.TV]
+104.27.146.208 7mm.tv www.7mm.tv
+104.18.39.251 7mmtv.tv  www.7mmtv.tv 
+163.172.90.92 file.7mmtv.tv 
+
+[THISAV.COM]
+104.27.196.89 thisav.com www.thisav.com
+104.27.196.89 cdn.thisav.com
+192.200.112.78 static.thisav.com
+
+[KISSJAV.COM]
+82.118.242.43 kissjav.com www.kissjav.com 
+
+[UNCENSOREDLEAK.COM]
+82.118.242.43 uncensoredleak.com www.uncensoredleak.com
