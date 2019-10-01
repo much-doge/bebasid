@@ -9,7 +9,7 @@ Anggaran yang bermilyar-milyar tersebut ternyata masih dapat ditembus hanya deng
 
 Aplikasi ini hanya untuk tujuan pengujian dan hanya dapat digunakan jika persetujuan telah diberikan. Jangan gunakan aplikasi ini untuk tujuan ilegal.
 
-1. Anda setuju untuk menggunakan Jaringan Uji TON hanya untuk tujuan yang sah dan hanya untuk tujuan pengujian dan pengembangan.
+1. Anda setuju untuk menggunakan BEBASID hanya untuk tujuan yang sah dan hanya untuk tujuan pengujian dan pengembangan.
 2. Penggunaan BEBASID adalah risiko anda sendiri. BEBASID disediakan pada dasar "sebagaimana adanya" dan "sebagaimana tersedia", tanpa jaminan apa pun, baik tersurat maupun tersirat. Anda memahami dan mengakui bahwa BEBASID adalah masih di bawah pengembangan dan pengujian.
 
 BEBASID adalah sebuah aplikasi yang digunakan untuk membuka website yang telah diblokir dengan tujuan mendukung kebebasan berinternet di Indonesia. Tetapi ada persyaratan yang harus dipenuhi sebelum menggunakan aplikasi ini.
