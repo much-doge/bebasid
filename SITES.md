@@ -11,7 +11,6 @@
 - Eztv.ag
 - Isohunt.to
 - 4chan.org
-- Hentaihaven.org
 - Pornhub.com
 - Tbib.org
 - Xhamster.com
@@ -418,7 +417,6 @@
 - Javcl.com
 - Youav.com
 - Xkorean.biz
-- Hentaihaven.me
 - Hentai2w.com
 - Kisscosplay.moe
 - Tabootube.xxx
@@ -470,3 +468,11 @@
 - Torrentdownloads.me
 - Hebatch.blogspot.com
 - Topwebmodels.com
+- Instantfap.com
+- Vjav.com
+- Txxx.com
+- 7mm.tv
+- Thisav.com
+- Kissjav.com
+- Uncensoredleak.com
+- Eporner.com

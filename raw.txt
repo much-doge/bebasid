@@ -4,10 +4,9 @@ Project home page: https://bebasid.github.io
 Hosts listed by gvoze32
 
 Rules
-BEBASID adalah sebuah aplikasi yang digunakan untuk membuka website yang telah diblokir dengan tujuan mendukung kebebasan berinternet di Indonesia. Tetapi ada persyaratan yang harus dipenuhi sebelum menggunakan aplikasi ini.
-Anda harus wajib berusia minimal 18 tahun keatas untuk bisa menggunakan aplikasi ini. 
-Kami tidak bertanggung jawab apabila fitur ini disalahgunakan. Apabila Anda menyalahgunakan fitur ini, maka Anda siap untuk menanggung segala konsekuensi yang ditimbulkan dari penggunaan aplikasi ini.
-Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuhan, termasuk dosa, kami serahkan sepenuhnya kepada Anda. Kami tidak bertanggung jawab. Menggunakan aplikasi ini berarti sepenuhnya menanggung semua akibat yang ditimbulkan.
+Dengan mengunduh BEBASID dan perangkat lunak terkait dan menggunakan aplikasi ini, Anda menerima dan setuju untuk terikat dan mematuhi ketentuan berikut:
+Disclaimer: https://github.com/gvoze32/bebasid/blob/master/RULES.md
+Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini sudah tidak terkait dengan BEBASID.
 
 [OPENLOAD.CO]
 104.16.166.50 openload.co www.openload.co
@@ -208,9 +207,6 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 104.16.62.249 t.4cdn.org
 144.217.123.248 is3.4chan.org
 142.44.218.139 is2.4chan.org
-
-[HENTAIHAVEN.ORG]
-192.124.249.11 hentaihaven.org www.hentaihaven.org
 
 [PORNHUB.COM]
 31.192.120.36 pornhub.com www.pornhub.com
@@ -472,8 +468,8 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 [NETFLIX.COM]
-35.160.7.30 netflix.com www.netflix.com
-52.32.78.165 netflix.co.id www.netflix.co.id
+35.164.147.207 netflix.com www.netflix.com
+35.164.147.207 netflix.co.id www.netflix.co.id
 23.35.181.192 secure.netflix.com
 52.42.49.110 movies.netflix.com
 34.227.70.20 movies1.netflix.com
@@ -1624,7 +1620,10 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 104.28.6.40 notsfw.to www.notsfw.to
 
 [GETCHU.COM]
-210.155.150.166 getchu.com www.getchu.com
+210.155.150.145 getchu.com www.getchu.com www4.getchu.com www2.getchu.com
+210.140.45.147 dl.getchu.com
+210.155.150.152 ssl.getchu.com search.getchu.com ranking.getchu.com
+203.104.130.159 blog.getchu.com
 
 [HENTAI4MANGA.COM]
 50.7.96.171 hentai4manga.com www.hentai4manga.com
@@ -1869,9 +1868,6 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 [XKOREAN.BIZ]
 104.24.106.40 xkorean.biz www.xkorean.biz
 
-[HENTAIHAVEN.ME]
-104.27.173.230 hentaihaven.me www.hentaihaven.me
-
 [HENTAI2W.COM]
 209.133.222.18 hentai2w.com www.hentai2w.com
 
@@ -2063,3 +2059,6 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 
 [UNCENSOREDLEAK.COM]
 82.118.242.43 uncensoredleak.com www.uncensoredleak.com
+
+[VJAV.COM]
+104.25.23.99 vjav.com www.vjav.com cn.vjav.com it.vjav.com member.vjav.com

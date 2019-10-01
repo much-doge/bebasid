@@ -1,15 +1,14 @@
-# *Start About
+# About
 # Support Indonesian Net Neutrality
 # Project home page: https://bebasid.github.io
 # Hosts listed by gvoze32
 #
-# *Start Rules
-# BEBASID adalah sebuah aplikasi yang digunakan untuk membuka website yang telah diblokir dengan tujuan mendukung kebebasan berinternet di Indonesia. Tetapi ada persyaratan yang harus dipenuhi sebelum menggunakan aplikasi ini.
-# Anda harus wajib berusia minimal 18 tahun keatas untuk bisa menggunakan aplikasi ini. 
-# Kami tidak bertanggung jawab apabila fitur ini disalahgunakan. Apabila Anda menyalahgunakan fitur ini, maka Anda siap untuk menanggung segala konsekuensi yang ditimbulkan dari penggunaan aplikasi ini.
-# Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuhan, termasuk dosa, kami serahkan sepenuhnya kepada Anda. Kami tidak bertanggung jawab. Menggunakan aplikasi ini berarti sepenuhnya menanggung semua akibat yang ditimbulkan.
+# Rules
+# Dengan mengunduh BEBASID dan perangkat lunak terkait dan menggunakan aplikasi ini, Anda menerima dan setuju untuk terikat dan mematuhi ketentuan berikut:
+# Disclaimer: https://github.com/gvoze32/bebasid/blob/master/RULES.md
+# Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini sudah tidak terkait dengan BEBASID.
 #
-# *Start Sample
+# Sample
 # Copyright (c) 1993-2009 Microsoft Corp.
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
@@ -31,9 +30,8 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-# *Start BEBASID
-# ====================================\
-
+# BEBASID LIST START
+# ===================\
 # [OPENLOAD.CO]
 104.16.166.50 openload.co www.openload.co
 104.16.165.50 t1.openload.co
@@ -193,9 +191,9 @@
 # [NHENTAI.NET]
 141.101.120.55 nhentai.net www.nhentai.net
 141.101.120.54 static.nhentai.net
-185.165.243.200 t.nhentai.net
+185.165.243.201 t.nhentai.net
 185.165.243.201 i.nhentai.net
-185.165.243.200 webseed.nhentai.net
+185.165.243.201 webseed.nhentai.net
 
 # [GELBOORU.COM]
 67.202.114.141 gelbooru.com www.gelbooru.com
@@ -234,9 +232,6 @@
 144.217.123.248 is3.4chan.org
 142.44.218.139 is2.4chan.org
 
-# [HENTAIHAVEN.ORG]
-192.124.249.11 hentaihaven.org www.hentaihaven.org
-
 # [PORNHUB.COM]
 31.192.120.36 pornhub.com www.pornhub.com
 
@@ -244,8 +239,11 @@
 104.31.90.62 tbib.org
 
 # [XHAMSTER.COM]
-88.208.18.30 xhamster.com www.xhamster.com m.xhamster.com mobi.xhamster.com
+88.208.60.136 xhamster.com www.xhamster.com m.xhamster.com mobi.xhamster.com
 88.208.31.1 xhcdn.com video.xhcdn.com
+88.208.36.222 xhamster7.com
+104.18.85.14 static-cl.xhcdn.com
+104.18.84.14 thumb-v-cl2.xhcdn.com
 
 # [JAVFOR.ME]
 104.25.219.15 javfor.me
@@ -424,14 +422,13 @@
 5.178.68.69 konachan.com
 
 # [TSUMINO.COM]
-104.28.20.226 tsumino.com
-104.28.21.226 www.tsumino.com
+104.28.3.29 tsumino.com www.tsumino.com content.tsumino.com
 
 # [PORNEQ.COM]
 163.172.85.31 porneq.com
 
 # [NEWGROUNDS.COM]
-142.44.137.231 www.newgrounds.com newgrounds.com
+54.39.105.143 newgrounds.com www.newgrounds.com
 
 # [MOFOS.COM]
 216.18.168.90 members2.mofos.com
@@ -495,8 +492,8 @@
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 # [NETFLIX.COM]
-35.160.7.30 netflix.com www.netflix.com
-52.32.78.165 netflix.co.id www.netflix.co.id
+35.164.147.207 netflix.com www.netflix.com
+35.164.147.207 netflix.co.id www.netflix.co.id
 23.35.181.192 secure.netflix.com
 52.42.49.110 movies.netflix.com
 34.227.70.20 movies1.netflix.com
@@ -981,8 +978,9 @@
 5.44.219.124 asexon.com www.asexon.com
 
 # [AVGLE.COM]
-104.20.116.27 avgle.com www.avgle.com
-213.174.135.2 static-clst.avgle.com
+104.27.154.26 avgle.com
+104.27.155.26 www.avgle.com
+213.174.135.3 static-clst.avgle.com www.static-clst.avgle.com
 
 # [TUOI69.COM]
 104.27.178.187 tuoi69.com www.tuoi69.com
@@ -1646,7 +1644,10 @@
 104.28.6.40 notsfw.to www.notsfw.to
 
 # [GETCHU.COM]
-210.155.150.166 getchu.com www.getchu.com
+210.155.150.145 getchu.com www.getchu.com www4.getchu.com www2.getchu.com
+210.140.45.147 dl.getchu.com
+210.155.150.152 ssl.getchu.com search.getchu.com ranking.getchu.com
+203.104.130.159 blog.getchu.com
 
 # [HENTAI4MANGA.COM]
 50.7.96.171 hentai4manga.com www.hentai4manga.com
@@ -1655,7 +1656,8 @@
 99.84.254.72 manyvids.com www.manyvids.com
 
 # [JAV.GURU]
-104.25.143.28 jav.guru www.jav.guru static.jav.guru
+104.25.143.28 jav.guru www.jav.guru 
+104.25.142.28 static.jav.guru
 
 # [BBCSREBORN.COM]
 159.65.137.142 bbcsreborn.com www.bbcsreborn.com
@@ -1865,7 +1867,7 @@
 104.31.17.3 limetorrents.cc limetorrents.cc
 
 # [SXYPRN.COM]
-104.27.141.149 sxyprn.com www.sxyprn.com
+172.64.207.7 sxyprn.com www.sxyprn.com
 
 # [HENTAINEXUS.COM]
 104.31.73.80 hentainexus.com www.hentainexus.com images.hentainexus.com
@@ -1889,9 +1891,6 @@
 
 # [XKOREAN.BIZ]
 104.24.106.40 xkorean.biz www.xkorean.biz
-
-# [HENTAIHAVEN.ME]
-104.27.173.230 hentaihaven.me www.hentaihaven.me
 
 # [HENTAI2W.COM]
 209.133.222.18 hentai2w.com www.hentai2w.com
@@ -2057,3 +2056,33 @@
 
 # [TOPWEBMODELS.COM]
 74.206.162.148 topwebmodels.com www.topwebmodels.com tour.topwebmodels.com members.topwebmodels.com
+
+# [INSTANTFAP.COM] 
+104.24.107.241 instantfap.com www.instantfap.com
+
+# [TXXX.COM]
+104.20.72.110 txxx.com www.txxx.com
+
+# [EPORNER.COM]
+82.192.65.65 eporner.com
+82.192.65.65 www.eporner.com
+185.132.134.85 static-eu-cdn.eporner.com
+
+# [7MM.TV]
+104.27.146.208 7mm.tv www.7mm.tv
+104.18.39.251 7mmtv.tv  www.7mmtv.tv 
+163.172.90.92 file.7mmtv.tv 
+
+# [THISAV.COM]
+104.27.196.89 thisav.com www.thisav.com
+104.27.196.89 cdn.thisav.com
+192.200.112.78 static.thisav.com
+
+# [KISSJAV.COM]
+82.118.242.43 kissjav.com www.kissjav.com 
+
+# [UNCENSOREDLEAK.COM]
+82.118.242.43 uncensoredleak.com www.uncensoredleak.com
+
+# [VJAV.COM]
+104.25.23.99 vjav.com www.vjav.com cn.vjav.com it.vjav.com member.vjav.com

@@ -1,4 +1,24 @@
 # Changelog
+**v7.0** New sites added, bugs fixed, improved app experience
+- Instantfap.com
+- Vjav.com
+- Txxx.com
+- 7mm.tv
+- Thisav.com
+- Kissjav.com
+- Uncensoredleak.com
+- Eporner.com
+
+```
+Fixed bug on Netflix, Getchu, Nhentai, Tsumino, Xhamsters, Newgrounds, Avgle, Jav, Sxyprn, 
+Deleted Hentaihaven
+Improved Indihome Injection Block
+Fixed Spotify ads block
+Update Rules.md
+Improved app experience
+Commited pull requests: Improved Linux installation, Added reverse IP checker tool
+```
+
 **v6.9** New sites added, bugs fixed, REBRAND!
 - Topwebmodels.com
 
