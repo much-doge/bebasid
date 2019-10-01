@@ -48,7 +48,25 @@ https://play.google.com/store/apps/details?id=dns.hosts.server.change
 
 Buka aplikasinya, klik "Hosts Setting", Pilih filenya (file hosts yang telah di download), kemudian start
 
-## Linux / BSD / macOS
+## Linux
+
+Buka terminal, lalu ketik atau salin kode di bawah ini, lalu enter.
+
+```
+sudo curl -sfLS htps://raw.githubusercontent.com/gvoze32/bebasid/master/bebasid.sh >> /usr/local/bin/bebasid
+sudo chmod +x /usr/local/bin/bebasid
+bebasid --help
+```
+Alternatif (jika hanya ingin memasang file hosts):
+```
+sudo curl -sfLS https://raw.githubusercontent.com/gvoze32/bebasid/master/hosts >> /etc/hosts
+```
+atau
+```
+sudo wget https://raw.githubusercontent.com/gvoze32/bebasid/master/hosts -O /etc/hosts
+```
+
+## BSD / macOS
 
 Buka terminal, lalu ketik atau salin kode di bawah ini lalu enter.
 
