@@ -30,7 +30,7 @@ Fitur ini hanya bisa didapatkan dari donasi, silahkan kontak kami setelah mengir
 
 Untuk donasi bisa kontak saya melalui email. 
 
-Note: Bagi yang gagal login, silahkan download [ini](https://download.cnet.com/2007-Office-System-Driver-Data-Connectivity-Components/3000-10254_4-75452798.html) karena database hanya support komponen lama.
+Note: Bagi yang gagal login, silahkan download [2007 Office System Driver: Data Connectivity Components](https://download.cnet.com/2007-Office-System-Driver-Data-Connectivity-Components/3000-10254_4-75452798.html) karena database hanya support komponen lama.
 
 # Netflix
 Untuk cara menembus blokiran Netflix, silahkan menuju [NETFLIX.md](https://github.com/gvoze32/bebasid/blob/master/NETFLIX.md).
