@@ -8,8 +8,13 @@
     <img src="https://img.shields.io/github/issues-closed/gvoze32/bebasid.svg?style=flat-square">
     <img src="https://img.shields.io/github/last-commit/gvoze32/bebasid.svg?style=flat-square">
     <img src="https://img.shields.io/github/size/gvoze32/bebasid/hosts.svg?style=flat-square">
+    <img src="https://img.shields.io/github/contributors/gvoze32/bebasid?style=flat-square">
 </p>
 
+<p align="center">
+    <a href="https://discord.gg/q7AAX3W"><img src="https://img.shields.io/discord/630415907021389825?label=Discord&style=for-the-badge"></a>
+</p>
+    
 BEBASID dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts.
 
 # Download
