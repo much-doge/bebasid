@@ -150,26 +150,14 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.27.216.28 thepiratebay.org
 
 [HITOMI.LA]
-185.145.131.184 hitomi.la www.hitomi.la
-23.237.36.202 a.hitomi.la
-23.237.36.202 aa.hitomi.la
-192.240.120.10 atn.hitomi.la
-192.240.120.10 ba.hitomi.la
-192.240.120.10 btn.hitomi.la
-23.237.36.202 la.hitomi.la
-192.240.120.10 ltn.hitomi.la
-23.237.36.202 streaming.hitomi.la
-192.240.120.10 tn.hitomi.la
-23.237.36.202 g.hitomi.la
-23.237.36.202 i.hitomi.la
-192.240.120.10 hf2.hitomi.la
+185.145.129.33 hitomi.la www.hitomi.la
+192.240.120.10 a.hitomi.la aa.hitomi.la atn.hitomi.la ba.hitomi.la btn.hitomi.la
+192.240.120.10 ltn.hitomi.la streaming.hitomi.la tn.hitomi.la hf2.hitomi.la
 
 [NHENTAI.NET]
-141.101.120.55 nhentai.net www.nhentai.net
+104.31.81.98 nhentai.net www.nhentai.net
 141.101.120.54 static.nhentai.net
-185.165.243.201 t.nhentai.net
-185.165.243.201 i.nhentai.net
-185.165.243.201 webseed.nhentai.net
+185.165.243.200 t.nhentai.net i.nhentai.net webseed.nhentai.net
 
 [GELBOORU.COM]
 67.202.114.141 gelbooru.com www.gelbooru.com
@@ -468,8 +456,8 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 [NETFLIX.COM]
-35.164.147.207 netflix.com www.netflix.com
-35.164.147.207 netflix.co.id www.netflix.co.id
+52.32.190.151 netflix.com www.netflix.com
+50.17.247.31 netflix.co.id www.netflix.co.id
 23.35.181.192 secure.netflix.com
 52.42.49.110 movies.netflix.com
 34.227.70.20 movies1.netflix.com
@@ -492,9 +480,13 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 13.249.79.11 media.netflix.com
 54.201.122.47 help.netflix.com
 52.11.96.195 jobs.netflix.com
-207.45.72.215 nflxext.com nflximg.com
+207.45.72.215 nflxext.com
+52.37.69.124 nflximg.com
+50.17.247.31 nflxvideo.net
+207.45.72.215 nflximg.net
 54.187.138.220 api-global.netflix.com
 54.69.204.241 ichnaea.netflix.com
+52.40.16.103 account.netflix.com
 
 [KISSMANGA.COM]
 104.25.45.113 kissmanga.com www.kissmanga.com
@@ -740,7 +732,7 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.28.31.244 javhd3x.com www.javhd3x.com
 
 [JAVHD4K.COM]
-104.27.156.165 javhd4k.com www.javhd4k.com
+104.28.5.43 javhd4k.com www.javhd4k.com
 
 [PORNHD3X.TO]
 104.24.102.38 pornhd3x.to www.pornhd3x.to
@@ -1455,12 +1447,8 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.31.76.51 xdezire.com www.xdezire.com jav.xdezire.com
 
 [NIJIE.INFO]
-160.16.107.42 nijie.info www.nijie.info
-160.16.63.177 pic01.nijie.info pic03.nijie.info
-160.16.213.146 pic02.nijie.info
-160.16.65.50 pic04.nijie.info
-160.16.62.102 pic05.nijie.info
-160.16.78.98 hc.b1.imgw.nijie.info
+160.16.63.177 nijie.info www.nijie.info pic01.nijie.info pic03.nijie.info
+160.16.78.98 pic02.nijie.info pic04.nijie.info hc.b1.imgw.nijie.info pic05.nijie.info
 
 [CAMWHORES.TV]
 89.248.174.139 camwhores.tv www.camwhores.tv
@@ -1827,8 +1815,7 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 
 [NOZOMI.LA]
 185.145.129.33 nozomi.la www.nozomi.la
-192.240.120.10 j.nozomi.la aa.hitomi.la ba.hitomi.la hf2.hitomi.la tn.hitomi.la
-192.240.120.10 atn.hitomi.la btn.hitomi.la streaming.hitomi.la ltn.hitomi.la
+192.240.120.10 j.nozomi.la
 
 [PORNHD.TO]
 104.27.140.50 pornhd.to www.pornhd.to
@@ -2062,3 +2049,19 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 
 [VJAV.COM]
 104.25.23.99 vjav.com www.vjav.com cn.vjav.com it.vjav.com member.vjav.com
+
+[BIQLE.COM]
+104.18.45.117 biqle.com www.biqle.com
+
+[JAVHD8K.BLOGSPOT.COM]
+216.58.194.161 javhd8k.blogspot.com www.javhd8k.blogspot.com
+
+[JAVNEW.NET]
+104.27.130.4 javnew.net www.javnew.net
+
+[AVENTERTAINMENTS.COM]
+69.28.53.205 aventertainments.com www.aventertainments.com
+69.28.53.210 vod.aventertainments.com
+
+[PORNCLIPSXXX.COM]
+145.239.192.237 pornclipsxxx.com www.pornclipsxxx.com

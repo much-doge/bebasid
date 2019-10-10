@@ -1,4 +1,17 @@
 # Changelog
+**v7.1 BETA** New sites added, bugs fixed, improved app experience
+- Biqle.com
+- Javhd8k.blogspot.com
+- Javnew.net
+- Aventertainments.com
+- Pornclipsxxx.com
+
+```
+Fixed bug on Reddit, Netflix, Nijie, Nhentai, Hitomi
+Deleted wasted code on app
+Added Block Hosts Feature
+```
+
 **v7.0** New sites added, bugs fixed, improved app experience
 - Instantfap.com
 - Vjav.com

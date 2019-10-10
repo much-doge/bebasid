@@ -476,3 +476,8 @@
 - Kissjav.com
 - Uncensoredleak.com
 - Eporner.com
+- Biqle.com
+- Javhd8k.blogspot.com
+- Javnew.net
+- Aventertainments.com
+- Pornclipsxxx.com
