@@ -249,7 +249,6 @@
 - Yourporn.sexy
 - Porncache.net
 - Xbreezy.co
-- Olymptrade.com
 - Littlewhitebutterflies.co
 - Nekopoi.care
 - Hentaimanga.info
@@ -481,3 +480,6 @@
 - Javnew.net
 - Aventertainments.com
 - Pornclipsxxx.com
+- Kpopdeepfakes.net
+- Animeholics.org
+- Muchohentai.com

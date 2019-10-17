@@ -150,9 +150,9 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.27.216.28 thepiratebay.org
 
 [HITOMI.LA]
-185.145.129.33 hitomi.la www.hitomi.la
-192.240.120.10 a.hitomi.la aa.hitomi.la atn.hitomi.la ba.hitomi.la btn.hitomi.la
-192.240.120.10 ltn.hitomi.la streaming.hitomi.la tn.hitomi.la hf2.hitomi.la
+185.145.131.184 hitomi.la www.hitomi.la
+192.240.120.10 a.hitomi.la aa.hitomi.la atn.hitomi.la ba.hitomi.la btn.hitomi.la ca.hitomi.la
+192.240.120.10 ltn.hitomi.la streaming.hitomi.la tn.hitomi.la hf2.hitomi.la ctn.hitomi.la g.hitomi.la
 
 [NHENTAI.NET]
 104.31.81.98 nhentai.net www.nhentai.net
@@ -456,7 +456,23 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 [NETFLIX.COM]
-52.32.190.151 netflix.com www.netflix.com
+54.71.111.34 netflix.com www.netflix.com
+34.213.151.116 netflix.com www.netflix.com
+35.160.7.30 netflix.com www.netflix.com
+35.160.112.124 netflix.com www.netflix.com
+35.164.65.152 netflix.com www.netflix.com
+52.26.111.43 netflix.com www.netflix.com
+52.37.69.124 netflix.com www.netflix.com
+52.37.77.112 netflix.com www.netflix.com
+52.37.219.6 netflix.com www.netflix.com
+34.246.63.0 netflix.com www.netflix.com
+34.249.125.167 netflix.com www.netflix.com
+52.49.120.6 netflix.com www.netflix.com
+52.209.224.161 netflix.com www.netflix.com
+54.76.60.39 netflix.com www.netflix.com
+54.77.162.193 netflix.com www.netflix.com
+54.171.21.76 netflix.com www.netflix.com
+54.229.68.77 netflix.com www.netflix.com
 50.17.247.31 netflix.co.id www.netflix.co.id
 23.35.181.192 secure.netflix.com
 52.42.49.110 movies.netflix.com
@@ -697,26 +713,27 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.27.158.192 sexix.net www.sexix.net
 
 [CHATURBATE.COM]
-104.16.147.241 fr.chaturbate.com
-104.16.146.241 zh.chaturbate.com
-104.16.147.241 ko.chaturbate.com
-104.16.147.241 ar.chaturbate.com
-104.16.146.241 de.chaturbate.com
+104.18.90.31 fr.chaturbate.com
+104.18.90.31 zh.chaturbate.com
+104.18.90.31 ko.chaturbate.com
+104.18.90.31 ar.chaturbate.com
+104.18.90.31 de.chaturbate.com
 50.18.156.150 support.chaturbate.com
-104.16.146.241 chaturbate.com
-104.16.146.241 jp.chaturbate.com
-104.16.147.241 nl.chaturbate.com
-104.16.146.241 it.chaturbate.com
-104.16.146.241 tr.chaturbate.com
-104.16.147.241 hi.chaturbate.com
-104.16.146.241 es.chaturbate.com
-104.16.147.241 ru.chaturbate.com
-104.16.147.241 ei.chaturbate.com
-104.16.146.241 blog.chaturbate.com
-104.16.147.241 en.chaturbate.com
-104.16.146.241 pt.chaturbate.com
-104.16.146.241 m.chaturbate.com support.chaturbate.com
-64.38.230.2 stream.highwebmedia.com highwebmedia.com www.highwebmedia.com *.stream.highwebmedia.com
+104.18.90.31 chaturbate.com
+104.18.101.40 public.chaturbate.com
+104.18.90.31 jp.chaturbate.com
+104.18.90.31 nl.chaturbate.com
+104.18.90.31 it.chaturbate.com
+104.18.90.31 tr.chaturbate.com
+104.18.90.31 hi.chaturbate.com
+104.18.90.31 es.chaturbate.com
+104.18.90.31 ru.chaturbate.com
+104.18.90.31 ei.chaturbate.com
+104.18.90.31 blog.chaturbate.com
+104.18.90.31 en.chaturbate.com
+104.18.90.31 pt.chaturbate.com
+104.18.90.31 m.chaturbate.com support.chaturbate.com
+64.38.230.2 stream.highwebmedia.com highwebmedia.com www.highwebmedia.com
 104.16.47.55 camo.stream.highwebmedia.com
 104.16.46.23 ssl-ccstatic.highwebmedia.com
 64.38.211.174 chatws21.highwebmedia.com
@@ -1237,9 +1254,6 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 
 [XBREEZY.CO]
 104.28.17.233 xbreezy.co www.xbreezy.co
-
-[OLYMPTRADE.COM]
-185.104.210.32 olymptrade.com www.olymptrade.com
 
 [LITTLEWHITEBUTTERFLIES.CO]
 67.205.25.100 littlewhitebutterflies.co www.littlewhitebutterflies.co
@@ -2042,10 +2056,14 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 192.200.112.78 static.thisav.com
 
 [KISSJAV.COM]
-82.118.242.43 kissjav.com www.kissjav.com 
+82.118.242.43 kissjav.com www.kissjav.com
+23.237.108.34 media7.kissjav.com
+23.237.106.26 media8.kissjav.com
+23.237.60.90 media9.kissjav.com
 
 [UNCENSOREDLEAK.COM]
 82.118.242.43 uncensoredleak.com www.uncensoredleak.com
+23.237.108.34 video1.uncensoredleak.com
 
 [VJAV.COM]
 104.25.23.99 vjav.com www.vjav.com cn.vjav.com it.vjav.com member.vjav.com
@@ -2065,3 +2083,16 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 
 [PORNCLIPSXXX.COM]
 145.239.192.237 pornclipsxxx.com www.pornclipsxxx.com
+91.134.128.45 media2.pornclipsxxx.com
+
+[KPOPDEEPFAKES.NET]
+149.56.27.151 kpopdeepfakes.net www.kpopdeepfakes.net
+
+[ANIMEHOLICS.ORG]
+104.28.20.124 animeholics.org www.animeholics.org
+104.28.20.124 hentai.animeholics.org sakuracircle.animeholics.org
+
+[MUCHOHENTAI.COM]
+104.27.243.250 muchohentai.com www.muchohentai.com
+104.27.243.250 static1.muchohentai.com static2.muchohentai.com static3.muchohentai.com
+104.27.243.250 static4.muchohentai.com static5.muchohentai.com

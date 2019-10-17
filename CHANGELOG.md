@@ -1,4 +1,14 @@
 # Changelog
+**v7.2** New sites added, bugs fixed
+- Kpopdeepfakes.net
+- Animeholics.org
+- Muchohentai.com
+
+```
+Fixed bug on Netflix, Pornclipsxxx, Uncensoredleak, Kissjav, Hitomi, Chaturbate
+Deleted Olymptrade
+```
+
 **v7.1 BETA** New sites added, bugs fixed, improved app experience
 - Biqle.com
 - Javhd8k.blogspot.com
