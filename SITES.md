@@ -144,7 +144,7 @@
 - Asianbookie.com
 - Cosplayjav.pl
 - Iwara.tv
-- F95zone.com
+- F95zone.to
 - E621.net
 - Doujins.com
 - Javdoe.com
@@ -483,3 +483,5 @@
 - Kpopdeepfakes.net
 - Animeholics.org
 - Muchohentai.com
+- Fbs.com
+- Redbled.com

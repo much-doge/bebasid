@@ -1240,13 +1240,10 @@
 104.236.82.224 hleecher.tk www.hleecher.tk
 
 # [PORNPICS.COM]
-108.60.221.53 pornpics.com www.pornpics.com
-108.60.221.53 css.pornpics.com
-104.37.178.118 content.pornpics.com
-104.37.178.118 static.pornpics.com
-104.37.178.118 img.pornpics.com
-213.174.135.1 images.pornpics.com
-208.99.84.104 cdn.pornpics.com
+213.174.149.180 pornpics.com www.pornpics.com css.pornpics.com
+208.99.84.100 images.pornpics.com img.pornpics.com
+208.99.84.104 cdn.pornpics.com static.pornpics.com
+208.99.84.102 content.pornpics.com
 
 # [0XXX.WS]
 185.66.141.130 0xxx.ws www.0xxx.ws
@@ -2108,6 +2105,7 @@
 # [PORNCLIPSXXX.COM]
 145.239.192.237 pornclipsxxx.com www.pornclipsxxx.com
 91.134.128.45 media2.pornclipsxxx.com
+91.134.128.91 media4.pornclipsxxx.com
 
 # [KPOPDEEPFAKES.NET]
 149.56.27.151 kpopdeepfakes.net www.kpopdeepfakes.net
@@ -2120,3 +2118,9 @@
 104.27.243.250 muchohentai.com www.muchohentai.com
 104.27.243.250 static1.muchohentai.com static2.muchohentai.com static3.muchohentai.com
 104.27.243.250 static4.muchohentai.com static5.muchohentai.com
+
+# [FBS.COM]
+104.26.12.242 fbs.com www.fbs.com cdn.fbs.com
+
+# [REDBLED.COM]
+67.227.202.204 redbled.com www.redbled.com

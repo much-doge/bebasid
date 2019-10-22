@@ -1,4 +1,13 @@
 # Changelog
+**v7.3** New sites added, bugs fixed
+- Fbs.com
+- Redbled.com
+
+```
+Fixed bug on Pornpics, Pornclipsxxx
+Moved F95zone.com to F95zone.to 
+```
+
 **v7.2** New sites added, bugs fixed
 - Kpopdeepfakes.net
 - Animeholics.org
