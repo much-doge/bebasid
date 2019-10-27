@@ -130,6 +130,8 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 151.101.1.140 us.reddit.com
 151.101.1.140 fr.reddit.com
 151.101.1.140 252fwww.reddit.com
+151.101.53.140 www.redditstatic.com
+151.101.53.140 i.redd.it
 
 [VIMEO.COM]
 151.101.130.109 i.vimeocdn.com
