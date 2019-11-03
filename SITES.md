@@ -485,3 +485,5 @@
 - Muchohentai.com
 - Fbs.com
 - Redbled.com
+- 999dice.com
+- Warashi-asian-pornstars.fr

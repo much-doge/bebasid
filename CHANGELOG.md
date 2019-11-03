@@ -1,4 +1,12 @@
 # Changelog
+**v7.4** New sites added, bugs fixed
+- 999dice.com
+- Warashi-asian-pornstars.fr
+
+```
+Fixed bug on Javwide, Muchohentai
+```
+
 **v7.3** New sites added, bugs fixed
 - Fbs.com
 - Redbled.com

@@ -154,6 +154,8 @@
 151.101.1.140 us.reddit.com
 151.101.1.140 fr.reddit.com
 151.101.1.140 252fwww.reddit.com
+151.101.53.140 www.redditstatic.com
+151.101.53.140 i.redd.it
 
 # [VIMEO.COM]
 151.101.130.109 i.vimeocdn.com
@@ -1631,7 +1633,7 @@
 104.31.79.222 nukemanga.com www.nukemanga.com
 
 # [JAVWIDE.COM]
-104.27.144.187 javwide.com www.javwide.com www5.javwide.com
+104.24.120.232 javwide.com www.javwide.com www5.javwide.com
 
 # [E-HENTAIDB.COM]
 80.209.252.66 e-hentaidb.com www.e-hentaidb.com
@@ -2118,9 +2120,16 @@
 104.27.243.250 muchohentai.com www.muchohentai.com
 104.27.243.250 static1.muchohentai.com static2.muchohentai.com static3.muchohentai.com
 104.27.243.250 static4.muchohentai.com static5.muchohentai.com
+91.215.158.36 downloads.muchohentai.com
 
 # [FBS.COM]
 104.26.12.242 fbs.com www.fbs.com cdn.fbs.com
 
 # [REDBLED.COM]
 67.227.202.204 redbled.com www.redbled.com
+
+# [WARASHI-ASIAN-PORNSTARS.FR]
+51.15.172.59 warashi-asian-pornstars.fr www.warashi-asian-pornstars.fr
+
+# [999DICE.COM]
+46.28.207.158 999dice.com www.999dice.com
