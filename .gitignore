@@ -1,9 +1,0 @@
-# Don't track content of these folders
-/
-.github/
-dev/
-src/
-scripts/
-
-# Don't track content of these files
-*.md
