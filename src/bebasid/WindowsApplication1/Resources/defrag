@@ -1,0 +1,182 @@
+
+@echo off && color 0b
+
+:Proc_Validation (
+
+ if "%PROCESSOR_ARCHITECTURE%" EQU "amd64" ( >nul 2>&1 "%SYSTEMROOT%\SysWOW64\cacls.exe" "%SYSTEMROOT%\SysWOW64\config\system"
+ ) else ( >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system" )
+
+)
+
+:Admin_Validation (
+
+ if '%ErrorLevel%' NEQ '0' ( echo. && echo.^(#^) Alicia sedang meminta hak akses administrator . . . && goto :UAC_Prompt
+ ) else ( goto :Got_Admin )
+
+)
+
+:UAC_Prompt (
+
+ set params= %*
+ 
+ echo Set UAC = CreateObject^("Shell.Application"^) > "%temp%\getadmin.vbs"
+ echo UAC.ShellExecute "cmd.exe", "/c ""%~s0"" %params:"=""%", "", "runas", 1 >> "%temp%\getadmin.vbs"
+ 
+ "%temp%\getadmin.vbs" && del "%temp%\getadmin.vbs"
+ 
+ exit /b
+
+) 
+
+:Got_Admin ( pushd "%CD%" && CD /D "%~dp0" && goto :Initialize )
+	
+:Initialize (
+
+ setlocal enableextensions enabledelayedexpansion
+ 
+ echo.
+ echo.=========================
+ echo.=                       =
+ echo.=     UNBLOCKHOSTID     =
+ echo.=                       =
+ echo.=========================
+ echo.
+
+ set nama=%~dp0
+ set tersedia=unknown
+ set log=%~dp0
+ set lokasi=%~nx0
+ set tanggal=%date%
+ set waktu=%time%
+
+ call set nama=%%nama:\Asset\Command Line=\Save%%
+ call set log=%%log:\Asset=\Log%%
+ call set lokasi=%%lokasi:.cmd=%%
+ call set tanggal=%%tanggal:/=-%%
+ call set waktu=%%waktu:.=-%%
+ call set waktu=%%waktu:,=-%%
+ call set waktu=%%waktu::=-%%
+ 
+ set nama=%nama%Username.txt
+ set direktori=%log%%lokasi%
+ set riwayat=%direktori%\%tanggal%-%waktu%
+ set riwayat=%riwayat%.txt
+
+)
+
+:Username_Validation (
+ 
+ if exist "%nama%" ( set /p nama=<"%nama%"
+ ) else ( set "nama=Master" )
+ 
+)
+
+:Directory_Validation (
+
+ if exist "%direktori%" ( set tersedia=true
+ ) else ( set tersedia=false && mkdir "!direktori!")
+
+)
+
+:Directory_Result (
+
+ if %tersedia%==false (
+
+  echo. > "%riwayat%" && echo.^(#^) Alicia tidak dapat menemukan direktori penyimpanan riwayat !lokasi! >> "%riwayat%"
+  echo. >> "%riwayat%" && echo.^(#^) Alicia telah membuat direktori penyimpanan riwayat !lokasi! >> "%riwayat%"
+
+ ) else if %tersedia%==true ( echo. > "%riwayat%" && echo.^(#^) Alicia dapat menemukan direktori penyimpanan riwayat !lokasi! >> "%riwayat%" )
+
+)
+
+:Begin (
+
+ echo. >> "%riwayat%" && echo.^(#^) Alicia sedang menjalankan %lokasi%.cmd && echo.^(#^) Alicia sedang menjalankan %lokasi%.cmd >> "%riwayat%"
+
+ C:
+ cd /
+ cd %SystemRoot%\System32
+ 
+ mode con lines=10000
+ 
+ echo.
+ echo.==========================
+ echo.=                        =
+ echo.=  Alicia version 1.3.0  =
+ echo.=                        =
+ echo.==========================
+ echo. 
+
+)
+
+:Confirm (
+
+ echo.^(^^!^) Apa %nama% yakin untuk melakukan proses defrag pada semua disk ?
+ echo. && echo.^(^^!^) Untuk menkonfirmasi, %nama% cukup menekan salah satu tombol keyboard [Y] atau [N], kemudian tekan tombol keyboard [Enter]. && echo.
+ 
+ set /p konfirmasi=^(^>^) Jawaban : 
+
+ if %konfirmasi%==b set konfirmasi=B 
+ if %konfirmasi%==n set konfirmasi=N
+ if %konfirmasi%==y set konfirmasi=Y 
+
+ if %konfirmasi%==B (
+
+  echo.
+  
+  goto :Input
+ 
+ ) else if %konfirmasi%==N (
+
+   echo. && echo.^(^^!^) Proses defrag pada semua disk dibatalkan oleh !nama!.
+   echo. >> "%riwayat%" && echo.^(^^!^) Proses defrag pada semua disk dibatalkan oleh !nama!. >> "%riwayat%"
+  
+   goto :End
+ 
+  ) else if %konfirmasi%==Y (
+ 
+  set init_scan=%time%
+  
+  echo. && echo.^(^^!^) Diharapkan untuk menunggu proses defrag pada semua disk sampai selesai !nama!.
+  echo. && echo.^(^^!^) Proses defrag pada semua disk akan dimulai dalam : 3 detik .
+  echo. >> "%riwayat%" && echo.^(^^!^) Proses defrag pada semua disk dimulai %nama% >> "%riwayat%"
+  
+  timeout 1 >nul && echo. && echo.^(^^!^) Proses defrag pada semua disk akan dimulai dalam : 2 detik . .
+  timeout 1 >nul && echo. && echo.^(^^!^) Proses defrag pada semua disk akan dimulai dalam : 1 detik . . .
+  timeout 1 >nul && echo.
+  
+  set proses=Cmd.exe - Disk Defragmenter /Scan All /Normal Priority /Analysis /Optimize /Print Verbose /Print Progress
+  
+  Defrag /C /H /A /O /V /U
+ 
+ ) else ( echo. && echo.^(^^!^) Diharapkan untuk menginput dengan benar !nama!. && goto :Confirm )
+ 
+)
+
+:Error_Validation (
+ 
+ if %ErrorLevel%==0 ( echo. >> "%riwayat%" && echo.^(^^!^) Menjalankan !proses! berhasil %nama%. >> "%riwayat%"
+ ) else ( echo. >> "%riwayat%" && echo.^(^^!^) Menjalankan !proses! tidak berhasil %nama%, dengan kode error : !ErrorLevel!. >> "%riwayat%" )
+
+)
+
+:Defrag_Finish (
+ 
+ set finish_scan=%time%
+  
+ echo. && echo.^(^^!^) Proses defrag pada semua disk selesai dari jam !init_scan! sampai jam !finish_scan! %nama%. 
+ echo. >> "%riwayat%" && echo.^(^^!^) Proses defrag pada semua disk selesai dari jam !init_scan! sampai jam !finish_scan! %nama%. >> "%riwayat%"
+
+)
+
+:End (
+
+ echo. && echo.^(^^!^) Tekan tombol apapun untuk keluar atau exit %nama%.
+ 
+ endlocal
+ 
+ echo. && pause >nul
+ 
+ exit
+ 
+)

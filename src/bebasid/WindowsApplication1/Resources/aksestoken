@@ -1,0 +1,95 @@
+@echo off && color 0b
+cd /d C:\Windows\Temp\AccessToken
+
+echo. && echo Mengecek koneksi internet
+set server=www.google.com
+
+:Cek
+echo. && echo Memulai proses ping 5 .
+timeout 1 >nul && echo. && echo Memulai proses ping 4 . .
+timeout 1 >nul && echo. && echo Memulai proses ping 3 . . .
+timeout 1 >nul && echo. && echo Memulai proses ping 2 . . . .
+timeout 1 >nul && echo. && echo Memulai proses ping 1 . . . . .
+echo.
+ping %server% > NUL
+if %ERRORLEVEL%==0 (
+@echo =======================
+echo Terkoneksi ke internet
+echo =======================
+goto Tanya
+) else (
+@echo =============================
+echo Tidak terkoneksi ke internet
+echo =============================
+echo. && echo Pastikan kamu terkoneksi ke internet
+
+echo. && echo Tekan tombol apa saja untuk keluar
+pause >nul
+exit
+)
+
+:Tanya
+echo.
+echo Script ini memerlukan PHP dan Composer dengan module Guzzle untuk dapat dijalankan,
+echo Apakah kamu sudah pernah menginstall kedua program yang diperlukan tersebut?
+echo.
+echo Jawab N untuk membuka browser, kemudian download program yang diperlukan
+echo Jawab Y jika kedua program sudah terinstall
+echo.
+
+:Konfirmasi
+SET /P yakin=[Y/N] ? 
+IF /I "%yakin%" EQU "Y" GOTO Sudah
+IF /I "%yakin%" EQU "N" GOTO Belum
+goto Konfirmasi
+
+:Sudah
+echo. && echo Diharapkan untuk menunggu proses sampai selesai
+echo. && echo Proses akan dimulai dalam : 5 detik
+timeout 1 >nul && echo. && echo Proses akan dimulai dalam : 4 detik . .
+timeout 1 >nul && echo. && echo Proses akan dimulai dalam : 3 detik . . .
+timeout 1 >nul && echo. && echo Proses akan dimulai dalam : 2 detik . . . .
+timeout 1 >nul && echo. && echo Proses akan dimulai dalam : 1 detik . . . . .
+timeout 1 >nul && echo.
+
+call composer install
+
+echo. && echo Proses kedua akan dimulai dalam : 5 detik
+timeout 1 >nul && echo. && echo Proses kedua akan dimulai dalam : 4 detik . .
+timeout 1 >nul && echo. && echo Proses kedua akan dimulai dalam : 3 detik . . .
+timeout 1 >nul && echo. && echo Proses kedua akan dimulai dalam : 2 detik . . . .
+timeout 1 >nul && echo. && echo Proses kedua akan dimulai dalam : 1 detik . . . . .
+timeout 1 >nul && echo.
+echo Silahkan isi data yang diperlukan
+echo.
+
+php accesstoken.php
+
+echo. && echo.
+echo Silahkan salin output diatas untuk menyimpan access token
+echo Jika kamu tidak menemukan "access_token" di output, mungkin email dan password kamu salah
+echo. && echo.
+
+echo Tekan tombol apa saja untuk keluar
+pause>nul
+exit
+
+:Belum
+echo. && echo Membuka website tujuan dalam : 5 detik
+timeout 1 >nul && echo. && echo Membuka website tujuan dalam : 4 detik . .
+timeout 1 >nul && echo. && echo Membuka website tujuan dalam : 3 detik . . .
+timeout 1 >nul && echo. && echo Membuka website tujuan dalam : 2 detik . . . .
+timeout 1 >nul && echo. && echo Membuka website tujuan dalam : 1 detik . . . . .
+timeout 1 >nul && echo.
+
+start "" https://getcomposer.org/download
+start "" https://www.apachefriends.org/download.html
+
+echo.
+echo Silahkan download kedua program tersebut untuk mulai menggunakan script ini
+echo Keluar dan jalankan kembali script ini setelah kedua program terinstall
+echo. && echo.
+
+echo Tekan tombol apa saja untuk keluar
+pause >nul
+exit

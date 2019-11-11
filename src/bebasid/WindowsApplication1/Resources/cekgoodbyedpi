@@ -1,0 +1,33 @@
+@echo OFF
+reg Query "HKLM\Hardware\Description\System\CentralProcessor\0" | find /i "x86" > NUL && set OS=32BIT || set OS=64BIT
+
+if %OS%==32BIT GOTO TIGADUA
+if %OS%==64BIT GOTO ENAMEMPAT
+
+:TIGADUA
+cd /d C:\Windows\Temp\goodbyedpi\x86
+echo. && echo.
+echo Sistem operasi terdeteksi 32-bit
+echo.
+echo. && echo Memulai GoodbyeDPI dalam : 5 detik
+timeout 1 >nul && echo. && echo Memulai GoodbyeDPI dalam : 4 detik . .
+timeout 1 >nul && echo. && echo Memulai GoodbyeDPI dalam : 3 detik . . .
+timeout 1 >nul && echo. && echo Memulai GoodbyeDPI dalam : 2 detik . . . .
+timeout 1 >nul && echo. && echo Memulai GoodbyeDPI dalam : 1 detik . . . . .
+timeout 1 >nul && echo.
+start "" /d "%~dp0" "goodbyedpi.exe"
+exit
+
+:ENAMEMPAT
+cd /d C:\Windows\Temp\goodbyedpi\x86_64
+echo. && echo.
+echo Sistem operasi terdeteksi 64-bit
+echo.
+echo. && echo Memulai GoodbyeDPI dalam : 5 detik
+timeout 1 >nul && echo. && echo Memulai GoodbyeDPI dalam : 4 detik . .
+timeout 1 >nul && echo. && echo Memulai GoodbyeDPI dalam : 3 detik . . .
+timeout 1 >nul && echo. && echo Memulai GoodbyeDPI dalam : 2 detik . . . .
+timeout 1 >nul && echo. && echo Memulai GoodbyeDPI dalam : 1 detik . . . . .
+timeout 1 >nul && echo.
+start "" /d "%~dp0" "goodbyedpi.exe"
+exit

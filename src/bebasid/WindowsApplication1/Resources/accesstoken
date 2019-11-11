@@ -1,0 +1,87 @@
+<?php
+require('./vendor/autoload.php');
+
+use GuzzleHttp\Psr7\Request;
+use GuzzleHttp\Client;
+use GuzzleHttp\Psr7;
+
+class Token
+{
+    private $FB_URL = 'https://api.facebook.com/restserver.php';
+    private $API_SECRET = 'c1e620fa708a1d5696fb991c1bde5662';
+    private $API_KEY = '3e7c78e35a76a9299309885393b02d97';
+    private $USER_AGENT = "Mozilla/5.0 (Linux; Android 5.0.2; Andromax C46B2G Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/60.0.0.16.76;]";
+    private $username;
+    private $password;
+    private $data;
+
+    public function init($username, $password)
+    {
+        $this->username = $username;
+        $this->password = $password;
+        return $this;
+    }
+    private function generate($data)
+    {
+        $sig = "";
+        foreach ($data as $key => $value) {
+            $sig .= "$key=$value";
+        }
+        $sig .= $this->API_SECRET;
+        $sig = md5($sig);
+        return $sig;
+    }
+    private function data()
+    {
+        return [
+            "api_key" => $this->API_KEY,
+            "credentials_type" => "password",
+            "email" => $this->username,
+            "format" => "JSON",
+            "generate_machine_id" => "1",
+            "generate_session_cookies" => "1",
+            "locale" => "en_US",
+            "method" => "auth.login",
+            "password" => $this->password,
+            "return_ssl_resources" => "0",
+            "v" => "1.0"
+        ];
+    }
+    public function run()
+    {
+        if (!$this->username && !$this->password) {
+            return "Cannot connect to facebook";
+        }
+        $data = $this->data();
+        $data['sig'] = $this->generate(
+            $this->data()
+        );
+        $this->data = $data;
+        return $this;
+    }
+    public function url()
+    {
+        return $this->FB_URL.'?'.http_build_query($this->data);
+    }
+    public function cURL()
+    {
+        $client = new Client();
+        $request = $client->request('GET', $this->url(), [
+                'Origin' => 'https://facebook.com'
+            ]);
+        if ($request->getStatusCode() == 200) {
+            $body = $request->getBody();
+            $stream = Psr7\stream_for($body);
+            return $stream->getContents();
+        }
+    }
+}
+
+$token = new Token();
+echo "Username / Email :";
+$username = trim(fgets(STDIN));
+echo "Password :";
+$password = trim(fgets(STDIN));
+print_r($token->init($username, $password)
+    ->run()
+    ->cURL());
