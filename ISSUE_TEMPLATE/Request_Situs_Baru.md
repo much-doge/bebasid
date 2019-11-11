@@ -1,3 +1,12 @@
+---
+name: Request Situs Baru
+about: Request situs baru untuk ditambahkan
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 Contoh judul untuk request situs baru: [REQ] example.com
 
 **Ketentuan**
