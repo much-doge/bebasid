@@ -1,13 +1,11 @@
 ---
 name: Laporkan Bug
 about: Laporkan bug mengenai situs.
-title: ''
-labels: ''
+title: '[BUG] example.com'
+labels: 'bug'
 assignees: ''
 
 ---
-
-Contoh judul untuk pelaporan bug: [BUG] example.com
 
 **Deskripsi mengenai bug**
 Deskripsi yang jelas dan ringkas tentang apa yang terjadi.
