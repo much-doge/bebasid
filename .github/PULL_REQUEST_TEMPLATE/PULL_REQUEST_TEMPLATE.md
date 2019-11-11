@@ -1,3 +1,12 @@
+---
+name: Ketentuan
+about: Pull request rules.
+title: 'Penambahan Situs/Fitur'
+labels: ''
+assignees: ''
+
+---
+
 Ketentuan Pull Request:
 - Silahkan untuk mengubah file raw.txt saja 
 - Jika sebelumnya terdapat pull request, silahkan ubah file yang ada di pull tersebut
