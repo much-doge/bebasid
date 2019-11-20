@@ -1,4 +1,4 @@
-# Cara Install
+# Cara Penggunaan
 ## Windows
 
 Jalankan BEBASID.exe dengan "Run as administrator", klik Apply
