@@ -25,10 +25,10 @@ Mungkin di perangkat Anda aplikasi ini akan terdeteksi sebagai virus oleh Antivi
 [VirusTotal](https://www.virustotal.com/gui/file-analysis/NTIwZTY0MTYzOTNhY2ZhMGJkMzI1ZmJmNDc3YTJhNWM6MTU2NDAzMjk0Mw==/detection).
 
 # Supported Sites
-Semua daftar situs yang support bisa kamu cek [disini](https://github.com/gvoze32/bebasid/blob/master/SITES.md).
+Semua daftar situs yang support bisa kamu cek [disini](https://github.com/gvoze32/bebasid/blob/master/dev/readme/SITES.md).
 
 # How to Install
-Untuk tahapan atau cara instalasi, silahkan menuju [INSTALL.md](https://github.com/gvoze32/bebasid/blob/master/INSTALL.md).
+Untuk tahapan atau cara instalasi, silahkan menuju [INSTALL.md](https://github.com/gvoze32/bebasid/blob/master/dev/readme/INSTALL.md).
 
 # Donate
 Fitur ini hanya bisa didapatkan dari donasi, silahkan kontak kami setelah mengirimkan donasi. Setelah itu kami akan memberikan id dan password untuk login.
@@ -38,10 +38,10 @@ Untuk donasi bisa kontak saya melalui email.
 Note: Bagi yang gagal login, silahkan download [2007 Office System Driver: Data Connectivity Components](https://download.cnet.com/2007-Office-System-Driver-Data-Connectivity-Components/3000-10254_4-75452798.html) karena database hanya support komponen lama.
 
 # Netflix
-Untuk cara menembus blokiran Netflix, silahkan menuju [NETFLIX.md](https://github.com/gvoze32/bebasid/blob/master/NETFLIX.md).
+Untuk cara menembus blokiran Netflix, silahkan menuju [NETFLIX.md](https://github.com/gvoze32/bebasid/blob/master/dev/readme/NETFLIX.md).
 
 # Changelog
-Histori lengkap changelog bisa dilihat [disini](https://github.com/gvoze32/bebasid/blob/master/CHANGELOG.md).
+Histori lengkap changelog bisa dilihat [disini](https://github.com/gvoze32/bebasid/blob/master/dev/readme/CHANGELOG.md).
 
 # Licence
 BEBASID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/gvoze32/bebasid/blob/master/LICENSE) untuk informasi lebih lanjut.
@@ -50,7 +50,7 @@ BEBASID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/gvoze32/be
 Untuk yang ingin request, silahkan untuk open issue [disini](https://github.com/gvoze32/bebasid/issues/new).
 
 # Rules
-Sebelum menggunakan aplikasi ini, Anda wajib mematuhi peraturan yang kami buat, dengan menggunakan aplikasi ini Anda berarti menerima segala akibat yang ditimbulkan. Lihat [RULES](https://github.com/gvoze32/bebasid/blob/master/RULES.md).
+Sebelum menggunakan aplikasi ini, Anda wajib mematuhi peraturan yang kami buat, dengan menggunakan aplikasi ini Anda berarti menerima segala akibat yang ditimbulkan. Lihat [RULES](https://github.com/gvoze32/bebasid/blob/master/dev/readme/RULES.md).
 
 # Database
 Database pemblokiran oleh Kominfo bisa didownload [disini](https://trustpositif.kominfo.go.id/files/downloads/database/blacklist/pengaduan/domains.txt)
