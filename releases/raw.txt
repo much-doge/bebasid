@@ -292,19 +292,11 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 
 [SANKAKUCOMPLEX.COM]
 208.100.24.252 sankakucomplex.com www.sankakucomplex.com
-208.100.27.32 chan.sankakucomplex.com
-208.100.27.32 idol.sankakucomplex.com
-208.100.47.78 images.sankakucomplex.com
-208.100.47.75 data.sankakucomplex.com
-208.100.24.246 c.sankakucomplex.com
-208.100.47.75 charts.sankakucomplex.com
-208.100.47.75 extra.sankakucomplex.com
-208.100.24.254 cs.sankakucomplex.com
-208.100.47.78 img.sankakucomplex.com
-208.100.24.246 i.sankakucomplex.com
-208.100.47.78 img4.sankakucomplex.com
-208.100.47.78 img3.sankakucomplex.com
-208.100.24.254 is.sankakucomplex.com
+208.100.27.32 chan.sankakucomplex.com idol.sankakucomplex.com
+208.100.47.78 images.sankakucomplex.com img3.sankakucomplex.com img4.sankakucomplex.com img.sankakucomplex.com
+208.100.47.75 data.sankakucomplex.com charts.sankakucomplex.com extra.sankakucomplex.com
+208.100.24.246 c.sankakucomplex.com i.sankakucomplex.com cstats.sankakucomplex.com
+208.100.24.254 cs.sankakucomplex.com is.sankakucomplex.com beta.sankakucomplex.com
 
 [SPANKBANG.COM]
 104.31.15.163 th.spankbang.com
@@ -394,7 +386,7 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 163.172.85.31 porneq.com
 
 [NEWGROUNDS.COM]
-54.39.105.143 newgrounds.com www.newgrounds.com
+51.79.82.168 newgrounds.com www.newgrounds.com
 
 [MOFOS.COM]
 216.18.168.90 members2.mofos.com
