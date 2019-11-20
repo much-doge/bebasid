@@ -27,8 +27,8 @@ Mungkin di perangkat Anda aplikasi ini akan terdeteksi sebagai virus oleh Antivi
 # Supported Sites
 Semua daftar situs yang support bisa kamu cek [di sini](https://github.com/gvoze32/bebasid/blob/master/dev/readme/SITES.md).
 
-# How to Install
-Untuk tahapan atau cara instalasi, silahkan menuju [INSTALL.md](https://github.com/gvoze32/bebasid/blob/master/dev/readme/INSTALL.md).
+# Usage
+Untuk panduan penggunaan, silahkan menuju [USAGE.md](https://github.com/gvoze32/bebasid/blob/master/dev/readme/USAGE.md).
 
 # Donate
 Fitur ini hanya bisa didapatkan dari donasi, silahkan kontak kami setelah mengirimkan donasi. Setelah itu kami akan memberikan id dan password untuk login.
@@ -46,7 +46,7 @@ Histori lengkap changelog bisa dilihat [di sini](https://github.com/gvoze32/beba
 # Licence
 BEBASID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/gvoze32/bebasid/blob/master/LICENSE) untuk informasi lebih lanjut.
 
-# Request & Bug
+# Request/Bug
 Untuk yang ingin request dan melaporkan adanya bug, silahkan untuk open issue [di sini](https://github.com/gvoze32/bebasid/issues/new/choose).
 
 # Rules
