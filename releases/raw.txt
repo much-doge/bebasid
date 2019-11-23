@@ -1838,7 +1838,7 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 172.64.207.7 sxyprn.com www.sxyprn.com
 
 [HENTAINEXUS.COM]
-104.31.73.80 hentainexus.com www.hentainexus.com images.hentainexus.com
+104.31.73.80 hentainexus.com www.hentainexus.com images.hentainexus.com dl.hentainexus.com
 
 [BETRADAR.COM]
 3.121.0.67 betradar.com www.betradar.com
