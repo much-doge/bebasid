@@ -23,7 +23,7 @@ File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka we
 
 **Aplikasi**
 
-Bisa juga melalui aplikasi AdAway yang bisa didownload [disini](https://f-droid.org/repo/org.adaway_61.apk)
+Bisa juga melalui aplikasi [AdAway](https://f-droid.org/en/packages/org.adaway)
 
 Lalu install seperti biasa.
 
@@ -32,7 +32,7 @@ Buka dan grant akses root
 Hapus semua centang pada hosts sources kemudian pilih add
 
 ```
-https://raw.githubusercontent.com/gvoze32/bebasid/master/hosts
+https://raw.githubusercontent.com/gvoze32/bebasid/master/releases/hosts
 ```
 
 Salin kode diatas lalu kembali ke AdAway dan tambahkan
@@ -53,17 +53,17 @@ Buka aplikasinya, klik "Hosts Setting", Pilih filenya (file hosts yang telah di 
 Buka terminal, lalu ketik atau salin kode di bawah ini, lalu enter.
 
 ```
-sudo curl -sfLS htps://raw.githubusercontent.com/gvoze32/bebasid/master/bebasid.sh >> /usr/local/bin/bebasid
+sudo curl -sfLS htps://raw.githubusercontent.com/gvoze32/bebasid/master/dev/scripts/bebasid.sh >> /usr/local/bin/bebasid
 sudo chmod +x /usr/local/bin/bebasid
 bebasid --help
 ```
 Alternatif (jika hanya ingin memasang file hosts):
 ```
-sudo curl -sfLS https://raw.githubusercontent.com/gvoze32/bebasid/master/hosts >> /etc/hosts
+sudo curl -sfLS https://raw.githubusercontent.com/gvoze32/bebasid/master/releases/hosts >> /etc/hosts
 ```
 atau
 ```
-sudo wget https://raw.githubusercontent.com/gvoze32/bebasid/master/hosts -O /etc/hosts
+sudo wget https://raw.githubusercontent.com/gvoze32/bebasid/master/releases/hosts -O /etc/hosts
 ```
 
 ## BSD / macOS
@@ -71,10 +71,10 @@ sudo wget https://raw.githubusercontent.com/gvoze32/bebasid/master/hosts -O /etc
 Buka terminal, lalu ketik atau salin kode di bawah ini lalu enter.
 
 ```
-sudo curl -sfLS https://raw.githubusercontent.com/gvoze32/bebasid/master/hosts >> /etc/hosts
+sudo curl -sfLS https://raw.githubusercontent.com/gvoze32/bebasid/master/releases/hosts >> /etc/hosts
 ```
 
 Alternatif:
 ```
-sudo wget https://raw.githubusercontent.com/gvoze32/bebasid/master/hosts -O /etc/hosts
+sudo wget https://raw.githubusercontent.com/gvoze32/bebasid/master/releases/hosts -O /etc/hosts
 ```
