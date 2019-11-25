@@ -32,7 +32,7 @@ Jika sudah selesai, silahkan service_remove.cmd untuk memberhentikan aplikasi.
 
 # Linux
 
-Sebelumnya, install dahulu BEBASID - [USAGE.md](https://github.com/gvoze32/bebasid/blob/master/dev/readme/USAGE.md#linux)
+Sebelumnya, install dahulu BEBASID - [USAGE.md](USAGE.md#linux)
 
 Selanjutnya, kamu bisa menggunakan [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) yang sudah dilengkapi dengan GUI, instalasinya mudah, tinggal install seperti package biasa, lalu jalankan dan tekan tombol menjadi on.
 
@@ -40,13 +40,13 @@ Alternatifnya, kamu bisa menggunakan [zapret](https://github.com/bol-van/zapret)
 
 # MacOS
 
-Sebelumnya, install dahulu BEBASID - [USAGE.md](https://github.com/gvoze32/bebasid/blob/master/dev/readme/USAGE.md#bsd--macos)
+Sebelumnya, install dahulu BEBASID - [USAGE.md](USAGE.md#bsd--macos)
 
 Selanjutnya, kamu bisa menggunakan [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) juga, instalasinya kurang lebih sama dengan Linux.
 
 # Android
 
-Sebelumnya, install dahulu BEBASID - [USAGE.md](https://github.com/gvoze32/bebasid/blob/master/dev/readme/USAGE.md#android)
+Sebelumnya, install dahulu BEBASID - [USAGE.md](USAGE.md#android)
 
 Untuk android silahkan gunakan aplikasi [Dawn](https://play.google.com/store/apps/details?id=com.wktkf.dawn). Tinggal aktifkan saja.
 
