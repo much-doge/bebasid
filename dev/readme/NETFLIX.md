@@ -1,7 +1,5 @@
 ![Netflix Error Playback](https://www.ghacks.net/wp-content/uploads/2016/02/netflix-error-unblocker.jpg)
 
-Cara untuk menembus blokiran Netflix oleh Internet Positif Dengan menggunakan BEBASID + GoodbyeDPI.
-
 Setelah menginstall BEBASID, kamu akan bisa membuka Netflix, tetapi saat masuk playback mode akan ada tulisan:
 
     ======================
@@ -18,16 +16,17 @@ Setelah menginstall BEBASID, kamu akan bisa membuka Netflix, tetapi saat masuk p
 
 Kurang lebih seperti itu, karena akses kecepatan Netflix dilimit oleh Internet Positif jadi harus memakai GoodbyeDPI juga.
 
-Kamu bisa download GoodbyeDPI disini.
+# Windows
 
+Sebelumnya, install dahulu BEBASID - [USAGE.md](USAGE.md#windows)
+
+Selanjutnya, kamu bisa download GoodbyeDPI disini:  
 [Download](http://adena.me/goodbyedpi-0.1.5.zip) / [Mirrors](https://pastebin.com/raw/YCjrgF2G)
 
-Pertama, klik service_install.cmd untuk mulai menginstall aplikasinya.
-
-Kemudian tinggal klik run.cmd untuk memulai aplikasi.
-
-Silahkan coba untuk memutar film di Netflix.
-
+**Cara pakai:**  
+Pertama, klik service_install.cmd untuk mulai menginstall aplikasinya.  
+Kemudian tinggal klik run.cmd untuk memulai aplikasi.  
+Silahkan coba untuk memutar film di Netflix.  
 Jika sudah selesai, silahkan service_remove.cmd untuk memberhentikan aplikasi.
 
 # Linux
