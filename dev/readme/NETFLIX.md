@@ -1,7 +1,5 @@
 ![Netflix Error Playback](https://www.ghacks.net/wp-content/uploads/2016/02/netflix-error-unblocker.jpg)
 
-Cara untuk menembus blokiran Netflix oleh Internet Positif Dengan menggunakan BEBASID + GoodbyeDPI.
-
 Setelah menginstall BEBASID, kamu akan bisa membuka Netflix, tetapi saat masuk playback mode akan ada tulisan:
 
     ======================
@@ -18,21 +16,22 @@ Setelah menginstall BEBASID, kamu akan bisa membuka Netflix, tetapi saat masuk p
 
 Kurang lebih seperti itu, karena akses kecepatan Netflix dilimit oleh Internet Positif jadi harus memakai GoodbyeDPI juga.
 
-Kamu bisa download GoodbyeDPI disini.
+# Windows
 
+Sebelumnya, install dahulu BEBASID - [USAGE.md](USAGE.md#windows)
+
+Selanjutnya, kamu bisa download GoodbyeDPI disini:  
 [Download](http://adena.me/goodbyedpi-0.1.5.zip) / [Mirrors](https://pastebin.com/raw/YCjrgF2G)
 
-Pertama, klik service_install.cmd untuk mulai menginstall aplikasinya.
-
-Kemudian tinggal klik run.cmd untuk memulai aplikasi.
-
-Silahkan coba untuk memutar film di Netflix.
-
+**Cara pakai:**  
+Pertama, klik service_install.cmd untuk mulai menginstall aplikasinya.  
+Kemudian tinggal klik run.cmd untuk memulai aplikasi.  
+Silahkan coba untuk memutar film di Netflix.  
 Jika sudah selesai, silahkan service_remove.cmd untuk memberhentikan aplikasi.
 
 # Linux
 
-Sebelumnya, install dahulu BEBASID - [INSTALL.md](https://github.com/gvoze32/bebasid/blob/master/INSTALL.md#linux--bsd--macos)
+Sebelumnya, install dahulu BEBASID - [USAGE.md](USAGE.md#linux)
 
 Selanjutnya, kamu bisa menggunakan [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) yang sudah dilengkapi dengan GUI, instalasinya mudah, tinggal install seperti package biasa, lalu jalankan dan tekan tombol menjadi on.
 
@@ -40,13 +39,13 @@ Alternatifnya, kamu bisa menggunakan [zapret](https://github.com/bol-van/zapret)
 
 # MacOS
 
-Sebelumnya, install dahulu BEBASID - [INSTALL.md](https://github.com/gvoze32/bebasid/blob/master/INSTALL.md#linux--bsd--macos)
+Sebelumnya, install dahulu BEBASID - [USAGE.md](USAGE.md#bsd--macos)
 
 Selanjutnya, kamu bisa menggunakan [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) juga, instalasinya kurang lebih sama dengan Linux.
 
 # Android
 
-Sebelumnya, install dahulu BEBASID - [INSTALL.md](https://github.com/gvoze32/bebasid/blob/master/INSTALL.md#android)
+Sebelumnya, install dahulu BEBASID - [USAGE.md](USAGE.md#android)
 
 Untuk android silahkan gunakan aplikasi [Dawn](https://play.google.com/store/apps/details?id=com.wktkf.dawn). Tinggal aktifkan saja.
 
