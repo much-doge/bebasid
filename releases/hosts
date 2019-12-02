@@ -30,8 +30,6 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-# BEBASID LIST START =>
-
 # [OPENLOAD.CO]
 104.16.166.50 openload.co www.openload.co
 104.16.165.50 t1.openload.co
@@ -181,8 +179,8 @@
 192.240.120.10 ltn.hitomi.la streaming.hitomi.la tn.hitomi.la hf2.hitomi.la ctn.hitomi.la g.hitomi.la
 
 # [NHENTAI.NET]
-104.31.81.98 nhentai.net www.nhentai.net
-141.101.120.54 static.nhentai.net
+104.27.205.92 nhentai.net www.nhentai.net
+104.27.204.92 static.nhentai.net
 185.165.243.200 t.nhentai.net i.nhentai.net webseed.nhentai.net
 
 # [GELBOORU.COM]
@@ -299,10 +297,21 @@
 185.88.181.4 upload.xvideos.com
 185.88.181.4 static-l16.xvideos.com
 185.88.181.4 flashservice.xvideos.com
+67.26.250.251 static-l3.xvideos.com
+152.195.13.91 static-egc.xvideos-cdn.com
+141.0.168.12 static-ss.xvideos-cdn.com
+8.247.111.123 hls4-l3.xvideos-cdn.com
+152.195.13.88 vid-egc.xvideos-cdn.com
+152.195.13.91 cdn77-pic.xvideos-cdn.com
+185.246.209.24 cdn77-pic.xvideos-cdn.com
+152.195.13.91 img-egc.xvideos-cdn.com
+152.195.13.91 img-hw.xvideos-cdn.com
+8.253.209.251 img-l3.xvideos-cdn.com
+178.79.244.53 porn1-im-7688ec00-10333156-hlsinths.x.xvideos.com
 
 # [PAHEAL.NET]
 208.97.151.195 paheal.net
-5.79.80.150 rule34.paheal.net
+5.79.66.75 rule34.paheal.net
 
 # [XNXX.COM]
 141.0.173.174 multi.xnxx.com
@@ -316,19 +325,11 @@
 
 # [SANKAKUCOMPLEX.COM]
 208.100.24.252 sankakucomplex.com www.sankakucomplex.com
-208.100.27.32 chan.sankakucomplex.com
-208.100.27.32 idol.sankakucomplex.com
-208.100.47.78 images.sankakucomplex.com
-208.100.47.75 data.sankakucomplex.com
-208.100.24.246 c.sankakucomplex.com
-208.100.47.75 charts.sankakucomplex.com
-208.100.47.75 extra.sankakucomplex.com
-208.100.24.254 cs.sankakucomplex.com
-208.100.47.78 img.sankakucomplex.com
-208.100.24.246 i.sankakucomplex.com
-208.100.47.78 img4.sankakucomplex.com
-208.100.47.78 img3.sankakucomplex.com
-208.100.24.254 is.sankakucomplex.com
+208.100.27.32 chan.sankakucomplex.com idol.sankakucomplex.com
+208.100.47.78 images.sankakucomplex.com img3.sankakucomplex.com img4.sankakucomplex.com img.sankakucomplex.com
+208.100.47.75 data.sankakucomplex.com charts.sankakucomplex.com extra.sankakucomplex.com
+208.100.24.246 c.sankakucomplex.com i.sankakucomplex.com cstats.sankakucomplex.com
+208.100.24.254 cs.sankakucomplex.com is.sankakucomplex.com beta.sankakucomplex.com
 
 # [SPANKBANG.COM]
 104.31.15.163 th.spankbang.com
@@ -418,7 +419,7 @@
 163.172.85.31 porneq.com
 
 # [NEWGROUNDS.COM]
-54.39.105.143 newgrounds.com www.newgrounds.com
+51.79.77.157 newgrounds.com www.newgrounds.com
 
 # [MOFOS.COM]
 216.18.168.90 members2.mofos.com
@@ -788,6 +789,7 @@
 52.199.95.20 login.dlsite.com
 52.197.33.8 play.dlsite.com
 54.249.59.55 ch.dlsite.com
+163.171.129.140 trial.dlsite.com
 
 # [HENTAI.CAFE]
 104.25.23.115 hentai.cafe www.hentai.cafe
@@ -1270,10 +1272,11 @@
 80.82.77.69 yourporn.sexy www.yourporn.sexy
 
 # [PORNCACHE.NET]
-104.28.27.202 xhamster.porncache.net xvideos.porncache.net porncache.net
+104.28.27.202 xhamster.porncache.net
+xvideos.porncache.net porncache.net
 
 # [SEAPORN.NET]
-104.27.159.126 seaporn.net www.seaporn.net
+104.27.159.126 seaporn.net www.seaporn.net s.seaporn.net
 
 # [XBREEZY.CO]
 104.28.17.233 xbreezy.co www.xbreezy.co
@@ -1574,8 +1577,8 @@
 64.237.51.67 preview.hentaikey.com www.preview.hentaikey.com
 
 # [MANGAZUKI.CO]
-104.25.45.119 mangazuki.co www.mangazuki.co
-104.25.45.119 raws.mangazuki.co
+104.26.7.100 mangazuki.co www.mangazuki.co
+104.26.7.100 raws.mangazuki.co
 
 # [THISVID.COM]
 185.56.235.5 thisvid.com www.thisvid.com
@@ -1870,7 +1873,7 @@
 172.64.207.7 sxyprn.com www.sxyprn.com
 
 # [HENTAINEXUS.COM]
-104.31.73.80 hentainexus.com www.hentainexus.com images.hentainexus.com
+104.31.73.80 hentainexus.com www.hentainexus.com images.hentainexus.com dl.hentainexus.com
 
 # [BETRADAR.COM]
 3.121.0.67 betradar.com www.betradar.com
@@ -1897,7 +1900,7 @@
 
 # [KISSCOSPLAY.MOE]
 104.31.88.39 kisscosplay.moe www.kisscosplay.moe
-104.31.88.39 cdn.kisscosplay.moe cdn2.kisscosplay.moe cdn3.kisscosplay.moe
+104.31.88.39 cdn.kisscosplay.moe cdn2.kisscosplay.moe cdn3.kisscosplay.moe v2.kisscosplay.moe
 
 # [TABOOTUBE.XXX]
 104.28.30.12 tabootube.xxx www.tabootube.xxx
@@ -2133,3 +2136,31 @@
 
 # [999DICE.COM]
 46.28.207.158 999dice.com www.999dice.com
+
+# [JAVMAMA.CO]
+104.18.49.168 javmama.co www.javmama.co
+
+# [JAVDOCK.NET]
+104.18.57.19 javdock.net www.javdock.net
+
+# [SIMPLY-HENTAI.COM]
+104.26.13.155 simply-hentai.com www.simply-hentai.com
+
+# [HENTAIFROMHELL.ORG]
+104.28.20.79 hentaifromhell.org www.hentaifromhell.org
+
+# [HGAMECG.COM]
+104.31.73.193 hgamecg.com www.hgamecg.com
+
+# [SEIYA-SAIGA.COM]
+157.7.107.108 seiya-saiga.com www.seiya-saiga.com
+
+# [THOTHUB.TV]
+192.124.249.119 thothub.tv www.thothub.tv
+192.124.249.10 forum.thothub.tv
+
+# [HENTAI4.ME]
+104.27.155.30 hentai4.me www.hentai4.me
+
+# [AVCREMPIE.COM]
+104.31.93.46 avcrempie.com www.avcrempie.com
