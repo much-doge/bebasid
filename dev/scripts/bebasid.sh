@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # Instalasi hosts untuk Linux
-# Only Tested on RHEL (CentOS, Fedora) and Debian (Ubuntu, Linux Mint, etc)
+# Tested on RHEL (CentOS, Fedora), Debian (Ubuntu, Linux Mint, etc) and Arch Linux (Manjaro)
 # Coded by Icaksh
+# Fixed by gvoze32
 # BEBASID
 
 bebasid_banner(){
@@ -70,11 +71,11 @@ EOF
 # BECAUSE SOMEONE CAN FORGET ABOUT INTERNET CONNECTION
 # AND DESTROYING THE HOSTS FILE
 check_curl(){
-  if sudo curl -o /etc/hosts https://raw.githubusercontent.com/gvoze32/bebasid/master/hosts; then
+  if sudo curl -o /etc/hosts https://raw.githubusercontent.com/gvoze32/bebasid/master/releases/hosts; then
     sudo bash -c 'cat /etc/hosts-own >> /etc/hosts'
     sudo service network-manager restart
     echo ""
-    echo "== BEBASID TELAH SUKSES TERPASANG =="
+    echo "== BEBASID BERHASIL DIPASANG =="
   else
     sudo mv /etc/hosts.bak-bebasid /etc/hosts
     echo ""
@@ -83,8 +84,7 @@ check_curl(){
 }
 
 # GET DOMAIN'S IP ADDRESS
-# THE URL IS FREE HOSTING SERVICE
-# YOU CAN MODIF THE URL WITH YOUR'S SERVER/HOSTING
+# YOU CAN MODIFY THE URL WITH YOUR OWN SERVER/HOSTING
 grep_ip(){
   ip=$(curl http://two-ply-mixtures.000webhostapp.com/?domain=$domain)
   if ! [[ "$ip" =~ ^(([1-9]?[0-9]|1[0-9][0-9]|2([0-4][0-9]|5[0-5]))\.){3}([1-9]?[0-9]|1[0-9][0-9]|2([0-4][0-9]|5[0-5]))$ ]]; then
@@ -110,7 +110,7 @@ install_bebasid(){
 
 update_bebasid(){
   if [ -f /etc/hosts.bak-bebasid ]; then
-    sudo rm -rf /etc/hosts
+    sudo rm /etc/hosts
     echo "== SEDANG MEMASANG BEBASID, PASTIKAN MENUNGGU HINGGA SELESAI =="
     echo ""
     check_curl
@@ -128,12 +128,12 @@ update_bebasid(){
 uninstall_bebasid(){
   echo "== MEMERIKSA HOSTS BACKUP =="
   if [ -f /etc/hosts.bak-bebasid ]; then
-    echo "HOSTS BACKUP DITEMUKAN, MEMULAI PENCOPOTAN BEBASID"
-    sudo rm -rf /etc/hosts
-    sudo rm -rf /etc/hosts-own
+    echo "HOSTS BACKUP DITEMUKAN, MULAI MENGHAPUS BEBASID"
+    sudo rm /etc/hosts
+    sudo rm /etc/hosts-own
     sudo mv /etc/hosts.bak-bebasid /etc/hosts
     sudo service network-manager restart
-    echo "== BEBASID TELAH SUKSES DICOPOT =="
+    echo "== BEBASID TELAH SUKSES DIHAPUS =="
   else
     echo "== HOSTS BACKUP TIDAK DITEMUKAN =="
     echo "PENCOPOTAN DENGAN HOSTS BACKUP DEFAULT LINUX"
@@ -144,11 +144,10 @@ uninstall_bebasid(){
 }
 
 fix_hosts(){
-  sudo rm -rf "/etc/hosts"
+  sudo rm "/etc/hosts"
   restore_hosts
   sudo service network-manager restart
-  echo "FILE HOSTS TELAH DIUBAH KE DEFAULT, SILAHKAN MENCOBA PING"
-  echo "APABILA MASIH TERJADI ERROR, MOHON CEK SECARA MANUAL FILE HOSTS"
+  echo "HOSTS TELAH DIUBAH KE DEFAULT"
   echo "UNTUK MENGGUNAKAN BEBASID KEMBALI, SILAHKAN MENGGUNAKAN FUNGSI UPDATE"
 }
 
@@ -159,27 +158,27 @@ case $1 in
     bebasid_banner
     PS3='Pilih salah satu opsi: '
     echo ""
-    options=("Install BEBASID" "Update BEBASID" "Uninstall BEBASID" "Fix Error DNS Not Resolved" "Keluar")
+    options=("Install" "Update" "Uninstall" "Fix DNS Not Resolved Error" "Exit")
     select opt in "${options[@]}"
     do
       case $opt in
-        "Install BEBASID")
+        "Install")
           install_bebasid
           break
           ;;
-        "Update BEBASID")
+        "Update")
           update_bebasid
           break
           ;;
-        "Uninstall BEBASID")
+        "Uninstall")
           uninstall_bebasid
           break
           ;;
-        "Fix Error DNS Not Resolved")
+        "Fix DNS Not Resolved Error")
           fix_hosts
           break
           ;;
-        "Keluar")
+        "Exit")
           break
           ;;
         *)
@@ -195,12 +194,12 @@ case $1 in
     echo ""
     echo "List command:"
     echo "menu      : Menampilkan opsi menu"
-    echo "--help    : Menampilkan cara pemakaian dan list command"
+    echo "--help    : Menampilkan bantuan"
     echo "block     : Memblokir akses website"
-    echo "unblock   : Membuka akses website yang terkena blokir ipo-chan"
-    echo "install   : Memasang hosts dari BEBASID"
-    echo "update    : Membarukan hosts dari BEBASID"
-    echo "uninstall : Mencopot hosts dari BEBASID"
+    echo "unblock   : Membuka akses website yang terkena blokir Internet Positif"
+    echo "install   : Memasang hosts"
+    echo "update    : Membarukan hosts"
+    echo "uninstall : Mencopot hosts"
     echo "fix       : Memperbaiki error DNS Not Resolved"
     echo ""
     echo "Apabila setelah pemasangan BEBASID terjadi error DNS Not Resolved,"
@@ -246,6 +245,6 @@ case $1 in
     fix_hosts
     ;;
   *)
-    echo "Command tidak ditemukan, beri perintah bebasid --help untuk bantuan"
+    echo "Perintah tidak dikenali, ketik bebasid --help untuk bantuan"
     ;;
 esac
