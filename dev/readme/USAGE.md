@@ -21,9 +21,9 @@ Buka aplikasinya, pilih Add, kemudian salin kode diatas lalu tambahkan.
 
 Centang opsi "Allow Redirections" di Settings.
 
-Cara di atas memerlukan akses root, jika HP belum diroot, bisa memakai cara ini.
+**Cara di atas memerlukan akses root, jika HP belum diroot, bisa memakai cara ini.**
 
-Install aplikasi [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change), buka aplikasinya, klik "Hosts Settings", kemudian pilih hosts, jalankan.
+Install aplikasi [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change), buka aplikasinya, klik "Hosts Settings", lalu pilih hosts. Kemudian jalankan.
 
 ## Linux
 
@@ -60,7 +60,7 @@ Buka terminal, lalu ketik atau salin kode di bawah ini lalu enter.
 sudo curl -sfLS https://raw.githubusercontent.com/gvoze32/bebasid/master/releases/hosts >> /etc/hosts
 ```
 
-Alternatif:
+Alternatif
 ```
 sudo wget https://raw.githubusercontent.com/gvoze32/bebasid/master/releases/hosts -O /etc/hosts
 ```
