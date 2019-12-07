@@ -1,62 +1,48 @@
 # Cara Penggunaan
 ## Windows
 
-Jalankan BEBASID.exe dengan "Run as administrator", klik Apply
+Jalankan BEBASID.exe dengan "Run as administrator".
 
-*Note: Mungkin di perangkat Anda aplikasi ini akan terdeteksi sebagai virus oleh Antivirus, tetapi sebenarnya hal tersebut hanya false positive. Oleh karena itu matikan antivirus sebelum menggunakan.*
+*Note: Mungkin di perangkat Anda aplikasi ini akan terdeteksi sebagai virus, hal tersebut hanya false positive. Oleh karena itu matikan antivirus sebelum menggunakan.*
 
 ## Android
 
-#**Root**#
+Salin file hosts dan paste di folder /etc kemudian restart HP.
 
-**Manual**
+Alternatif (jika ingin install melewati aplikasi atau menambahkan list hosts lain)
 
-Copy file hosts.
-
-Buka folder /etc dan paste.
-
-Akan ada peringatan replace, pilih replace.
-
-Restart hp.
-
-File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
-
-**Aplikasi**
-
-Bisa juga melalui aplikasi [AdAway](https://f-droid.org/en/packages/org.adaway)
-
-Lalu install seperti biasa.
-
-Buka dan grant akses root
-
-Hapus semua centang pada hosts sources kemudian pilih add
+Install aplikasi [AdAway](https://f-droid.org/en/packages/org.adaway)
 
 ```
 https://raw.githubusercontent.com/gvoze32/bebasid/master/releases/hosts
 ```
 
-Salin kode diatas lalu kembali ke AdAway dan tambahkan
+Buka aplikasinya, pilih Add, kemudian salin kode diatas lalu tambahkan.
 
-Centang opsi "Allow Redirections" di Settings (Thanks to @TrixPone)
+Centang opsi "Allow Redirections" di Settings.
 
-Apply
+Cara di atas memerlukan akses root, jika HP belum diroot, bisa memakai cara ini.
 
-#**Non-Root**#
-
-Sebelumnya. install Hosts Go terlebih dahulu
-https://play.google.com/store/apps/details?id=dns.hosts.server.change
-
-Buka aplikasinya, klik "Hosts Setting", Pilih filenya (file hosts yang telah di download), kemudian start
+Install aplikasi [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change), buka aplikasinya, klik "Hosts Settings", kemudian pilih hosts, jalankan.
 
 ## Linux
 
 Buka terminal, lalu ketik atau salin kode di bawah ini, lalu enter.
 
 ```
-sudo curl -sfLS htps://raw.githubusercontent.com/gvoze32/bebasid/master/dev/scripts/bebasid.sh >> /usr/local/bin/bebasid
+# Install
+sudo curl -sfLS https://raw.githubusercontent.com/gvoze32/bebasid/master/dev/scripts/bebasid.sh >> /usr/local/bin/bebasid
+
+# Alternatif Install (Gunakan jika saat menggunakan curl muncul permission denied, kamu bisa memakai wget)
+sudo wget https://raw.githubusercontent.com/gvoze32/bebasid/master/dev/scripts/bebasid.sh -O /usr/local/bin/bebasid
+
+# Kemudian berikan permission ke folder bash
 sudo chmod +x /usr/local/bin/bebasid
+
+# Bantuan
 bebasid --help
 ```
+
 Alternatif (jika hanya ingin memasang file hosts):
 ```
 sudo curl -sfLS https://raw.githubusercontent.com/gvoze32/bebasid/master/releases/hosts >> /etc/hosts
