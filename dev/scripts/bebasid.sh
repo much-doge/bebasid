@@ -13,7 +13,7 @@ bebasid_banner(){
   echo "| |_) | |___| |_) / ___ \ ___) | || |_| |"
   echo "|____/|_____|____/_/   \_\____/___|____/ "
   echo ""
-  echo "==   SUPPORT INDONESIA NET NEUTRALITY  =="
+  echo "==   SUPPORT INDONESIAN NET NEUTRALITY  =="
   echo ""
 }
 
@@ -74,6 +74,7 @@ check_curl(){
   if sudo curl -o /etc/hosts https://raw.githubusercontent.com/gvoze32/bebasid/master/releases/hosts; then
     sudo bash -c 'cat /etc/hosts-own >> /etc/hosts'
     sudo service network-manager restart
+    sudo systemctl restart NetworkManager.service
     echo ""
     echo "== BEBASID BERHASIL DIPASANG =="
   else
@@ -133,12 +134,14 @@ uninstall_bebasid(){
     sudo rm /etc/hosts-own
     sudo mv /etc/hosts.bak-bebasid /etc/hosts
     sudo service network-manager restart
+    sudo systemctl restart NetworkManager.service
     echo "== BEBASID TELAH SUKSES DIHAPUS =="
   else
     echo "== HOSTS BACKUP TIDAK DITEMUKAN =="
     echo "PENCOPOTAN DENGAN HOSTS BACKUP DEFAULT LINUX"
     restore_hosts
     sudo service network-manager restart
+    sudo systemctl restart NetworkManager.service
     echo "== BEBASID TELAH SUKSES DICOPOT =="
   fi
 }
@@ -147,7 +150,8 @@ fix_hosts(){
   sudo rm "/etc/hosts"
   restore_hosts
   sudo service network-manager restart
-  echo "HOSTS TELAH DIUBAH KE DEFAULT"
+  sudo systemctl restart NetworkManager.service
+  echo "HOSTS TELAH DIKEMBALIKAN KE DEFAULT"
   echo "UNTUK MENGGUNAKAN BEBASID KEMBALI, SILAHKAN MENGGUNAKAN FUNGSI UPDATE"
 }
 
