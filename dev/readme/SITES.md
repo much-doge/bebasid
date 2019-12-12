@@ -1,5 +1,4 @@
 # List of supported sites:
-- Openload.co
 - Reddit.com
 - Vimeo.com
 - Thepiratebay.org
@@ -62,7 +61,6 @@
 - Anime-sharing.com
 - Complets.co.jp
 - Yuuk.net
-- Oload.tv
 - Redflava.com
 - Xiuren.org
 - Nutaku.net
@@ -135,7 +133,6 @@
 - Porncorn.co
 - Watchncum.biz
 - Xhubz.com
-- Xopenload.com
 - Elreyx.com
 - Hh.cx
 - 85porn.com
@@ -393,7 +390,6 @@
 - Playboyplus.com
 - Korea1818.com
 - Alljapanesepass.com
-- Openloadpro.com
 - Asianscandal.net
 - Javhd.pics
 - Javfast.tv

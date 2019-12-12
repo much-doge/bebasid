@@ -853,9 +853,6 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 [XHUBZ.COM]
 192.210.220.122 xhubz.com www.xhubz.com
 
-[XOPENLOAD.COM]
-104.27.160.211 xopenload.com www.xopenload.com
-
 [ELREYX.COM]
 104.28.28.252 elreyx.com www.elreyx.com imagenes.elreyx.com
 
@@ -1772,9 +1769,6 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 74.117.179.149 fhg.alljapanesepass.com
 74.117.179.56 join.alljapanesepass.com
 199.80.54.18 m.alljapanesepass.com
-
-[OPENLOADPRO.COM]
-104.31.88.181 openloadpro.com www.openloadpro.com
 
 [ASIANSCANDAL.NET]
 104.28.0.90 asianscandal.net www.asianscandal.net

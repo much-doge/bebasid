@@ -11,8 +11,8 @@
 - Toomics.com
 
 ```
-Fixed bug on Netflix, Xvideos, Javhihi, Imagefap, F95zone, Hitomi, Thothub
-Removed Openload, Oload
+Fixed bug on Netflix, Xvideos, Javhihi, Imagefap, F95zone, Hitomi, Thothub, Porncache, Mywife
+Removed Openload, Oload, Xopenload, Openloadpro
 ```
 
 **v7.5** New sites added, bugs fixed
