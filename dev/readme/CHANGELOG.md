@@ -1,4 +1,34 @@
 # Changelog
+**v7.6** New sites added, bugs fixed
+- Cfake.com
+- 8muses.com
+- Minnano-av.com
+- Desuarchive.org
+- Hentaicore.org
+- Hentaifreak.org
+- Ohentai.org
+- Torrentgalaxy.to
+- Toomics.com
+
+```
+Fixed bug on Netflix, Xvideos, Javhihi, Imagefap, F95zone, Hitomi, Thothub
+Removed Openload, Oload
+```
+
+**v7.5** New sites added, bugs fixed
+- Javmama.co
+- Javdock.net
+- Simply-hentai.com
+- Hentaifromhell.org
+- Hgamecg.com
+- Seiya-saiga.com
+- Hentai4.me
+- Avcrempie.com
+
+```
+Fixed bug on Nhentai, Xvideos, Paheal, Sankakucomplex, Newgrounds, Dlsite
+```
+
 **v7.4** New sites added, bugs fixed
 - 999dice.com
 - Warashi-asian-pornstars.fr
