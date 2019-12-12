@@ -30,13 +30,6 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-# [OPENLOAD.CO]
-104.16.166.50 openload.co www.openload.co
-104.16.165.50 t1.openload.co
-104.16.164.50 tt1.openload.co
-104.16.164.50 api.openload.co
-104.16.164.50 support.openload.co
-
 # [REDDIT.COM]
 151.101.129.140 reddit.com
 151.101.53.140 www.reddit.com
@@ -175,8 +168,8 @@
 
 # [HITOMI.LA]
 185.145.131.184 hitomi.la www.hitomi.la
-192.240.120.10 a.hitomi.la aa.hitomi.la atn.hitomi.la ba.hitomi.la btn.hitomi.la ca.hitomi.la
-192.240.120.10 ltn.hitomi.la streaming.hitomi.la tn.hitomi.la hf2.hitomi.la ctn.hitomi.la g.hitomi.la
+23.237.107.210 a.hitomi.la aa.hitomi.la atn.hitomi.la ba.hitomi.la btn.hitomi.la ca.hitomi.la
+23.237.107.210 ltn.hitomi.la streaming.hitomi.la tn.hitomi.la hf2.hitomi.la ctn.hitomi.la g.hitomi.la
 
 # [NHENTAI.NET]
 104.27.205.92 nhentai.net www.nhentai.net
@@ -302,8 +295,7 @@
 141.0.168.12 static-ss.xvideos-cdn.com
 8.247.111.123 hls4-l3.xvideos-cdn.com
 152.195.13.88 vid-egc.xvideos-cdn.com
-152.195.13.91 cdn77-pic.xvideos-cdn.com
-185.246.209.24 cdn77-pic.xvideos-cdn.com
+185.180.13.220 cdn77-pic.xvideos-cdn.com
 152.195.13.91 img-egc.xvideos-cdn.com
 152.195.13.91 img-hw.xvideos-cdn.com
 8.253.209.251 img-l3.xvideos-cdn.com
@@ -483,23 +475,12 @@
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 # [NETFLIX.COM]
-54.71.111.34 netflix.com www.netflix.com
-34.213.151.116 netflix.com www.netflix.com
-35.160.7.30 netflix.com www.netflix.com
-35.160.112.124 netflix.com www.netflix.com
-35.164.65.152 netflix.com www.netflix.com
-52.26.111.43 netflix.com www.netflix.com
 52.37.69.124 netflix.com www.netflix.com
-52.37.77.112 netflix.com www.netflix.com
-52.37.219.6 netflix.com www.netflix.com
-34.246.63.0 netflix.com www.netflix.com
-34.249.125.167 netflix.com www.netflix.com
-52.49.120.6 netflix.com www.netflix.com
-52.209.224.161 netflix.com www.netflix.com
-54.76.60.39 netflix.com www.netflix.com
-54.77.162.193 netflix.com www.netflix.com
-54.171.21.76 netflix.com www.netflix.com
-54.229.68.77 netflix.com www.netflix.com
+35.164.147.207 netflix.com www.netflix.com
+54.71.111.34 netflix.com www.netflix.com
+54.201.91.38 netflix.com www.netflix.com
+35.160.7.30 netflix.com www.netflix.com
+52.41.20.47 netflix.com www.netflix.com
 50.17.247.31 netflix.co.id www.netflix.co.id
 23.35.181.192 secure.netflix.com
 52.42.49.110 movies.netflix.com
@@ -529,7 +510,7 @@
 207.45.72.215 nflximg.net
 54.187.138.220 api-global.netflix.com
 54.69.204.241 ichnaea.netflix.com
-52.40.16.103 account.netflix.com
+52.35.125.204 account.netflix.com
 
 # [KISSMANGA.COM]
 104.25.45.113 kissmanga.com www.kissmanga.com
@@ -588,9 +569,6 @@
 
 # [YUUK.NET]
 104.28.14.80 yuuk.net www.yuuk.net
-
-# [OLOAD.TV]
-104.16.134.15 oload.tv www.oload.tv
 
 # [REDFLAVA.COM]
 85.10.202.22 redflava.com www.redflava.com
@@ -662,10 +640,9 @@
 66.254.108.234 members.familystrokes.com
 
 # [JAVHIHI.COM]
-104.31.112.88 javhihi.com www.javhihi.com
-104.31.112.88 statics.javhihi.com
 69.16.175.10 data.javhihi.com
 104.27.162.36 javhihi.in www.javhihi.in statics.javhihi.in
+104.31.78.212 www1.javhihi.com javhihi.com www.javhihi.com statics.javhihi.com
 
 # [EVILANGEL.COM]
 104.20.55.135 evilangel.com www.evilangel.com
@@ -898,9 +875,6 @@
 # [XHUBZ.COM]
 192.210.220.122 xhubz.com www.xhubz.com
 
-# [XOPENLOAD.COM]
-104.27.160.211 xopenload.com www.xopenload.com
-
 # [ELREYX.COM]
 104.28.28.252 elreyx.com www.elreyx.com imagenes.elreyx.com
 
@@ -925,7 +899,7 @@
 163.172.81.17 xin.iwara.tv
 
 # [F95ZONE.TO]
-104.25.113.103 f95zone.to www.f95zone.to attachments.f95zone.to
+104.25.113.103 f95zone.to www.f95zone.to attachments.f95zone.to static.f95zone.to
 
 # [E621.NET]
 104.24.10.70 e621.net www.e621.net
@@ -1043,6 +1017,9 @@
 
 # [IMAGEFAP.COM]
 109.201.130.57 imagefap.com www.imagefap.com
+8.240.78.251 cdn.imagefap.com
+8.252.98.251 cdn.imagefap.com
+8.252.183.123 cdn.imagefap.com
 
 # [PANDAMOVIES.COM]
 64.188.56.133 pandamovies.com www.pandamovies.com
@@ -1272,8 +1249,7 @@
 80.82.77.69 yourporn.sexy www.yourporn.sexy
 
 # [PORNCACHE.NET]
-104.28.27.202 xhamster.porncache.net
-xvideos.porncache.net porncache.net
+104.28.27.202 xhamster.porncache.net porncache.net www.porncache.net
 
 # [SEAPORN.NET]
 104.27.159.126 seaporn.net www.seaporn.net s.seaporn.net
@@ -1515,6 +1491,7 @@ xvideos.porncache.net porncache.net
 
 # [MYWIFE.CC]
 133.242.235.248 mywife.cc www.mywife.cc biglobe.mywife.cc
+39.110.205.226 cp.mywife.cc st.mywife.cc
 133.242.226.175 p02.mywife.cc
 
 # [MANGAGAMER.COM]
@@ -1815,9 +1792,6 @@ xvideos.porncache.net porncache.net
 74.117.179.56 join.alljapanesepass.com
 199.80.54.18 m.alljapanesepass.com
 
-# [OPENLOADPRO.COM]
-104.31.88.181 openloadpro.com www.openloadpro.com
-
 # [ASIANSCANDAL.NET]
 104.28.0.90 asianscandal.net www.asianscandal.net
 
@@ -1995,9 +1969,6 @@ xvideos.porncache.net porncache.net
 # [MULTPORN.NET]
 104.20.89.103 multporn.net www.multporn.net
 
-# [THOTHUB.TV]
-192.124.249.65 thothub.tv www.thothub.tv
-
 # [HENTAIMOE.ME]
 104.27.130.89 hentaimoe.me www.hentaimoe.me
 
@@ -2156,7 +2127,7 @@ xvideos.porncache.net porncache.net
 157.7.107.108 seiya-saiga.com www.seiya-saiga.com
 
 # [THOTHUB.TV]
-192.124.249.119 thothub.tv www.thothub.tv
+192.124.249.65 thothub.tv www.thothub.tv
 192.124.249.10 forum.thothub.tv
 
 # [HENTAI4.ME]
@@ -2164,3 +2135,32 @@ xvideos.porncache.net porncache.net
 
 # [AVCREMPIE.COM]
 104.31.93.46 avcrempie.com www.avcrempie.com
+
+# [CFAKE.COM]
+64.237.54.186 cfake.com
+64.237.54.186 www.cfake.com
+
+# [8MUSES.COM]
+104.25.51.19 8muses.com
+104.25.51.19 www.8muses.com
+
+# [MINNANO-AV.COM]
+82.221.105.23 minnano-av.com www.minnano-av.com
+
+# [DESUARCHIVE.ORG]
+104.24.126.53 desuarchive.org www.desuarchive.org
+
+# [HENTAICORE.ORG]
+104.27.169.103 hentaicore.org www.hentaicore.org
+
+# [HENTAIFREAK.ORG]
+111.90.159.69 hentaifreak.org www.hentaifreak.org
+
+# [OHENTAI.ORG]
+104.26.15.17 ohentai.org www.ohentai.org
+
+# [TORRENTGALAXY.TO]
+185.100.87.40 torrentgalaxy.to www.torrentgalaxy.to
+
+# [TOOMICS.COM]
+64.62.198.195 toomics.com www.toomics.com
