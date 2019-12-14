@@ -877,7 +877,7 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 163.172.81.17 xin.iwara.tv
 
 [F95ZONE.TO]
-104.25.113.103 f95zone.to www.f95zone.to attachments.f95zone.to static.f95zone.to
+104.26.6.12 f95zone.to www.f95zone.to static.f95zone.to attachments.f95zone.to 
 
 [E621.NET]
 104.24.10.70 e621.net www.e621.net
